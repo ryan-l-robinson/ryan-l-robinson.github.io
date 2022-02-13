@@ -20,13 +20,13 @@ timezone: America/Toronto
 
 title: Ryan Robinson Technology                          # the main title
 
-tagline: Blog about web technology, Microsoft 365, and more  # it will display as the sub-title
+tagline: Web technology, Microsoft 365, and more  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Ryan Robinson, Web Application Developer, writes about work he's done in web technology, Microsoft 365, and more.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://ryan-l-robinson.github.io'
 
 github:
   username: ryan-l-robinson             # change to your github username
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ryan Robinson
-  email: ryan@alliterationapplications.com            # change to your email address
+  #email: ryan@alliterationapplications.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Ryan_LR      # change to your twitter homepage
