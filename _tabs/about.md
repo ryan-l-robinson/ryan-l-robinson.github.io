@@ -7,7 +7,7 @@ order: 4
 
 Hi, I’m Ryan Robinson. I’ve been working in technology for over 10 years, especially within websites, Microsoft 365, and CRM systems. On this site document some of the work I’ve done, whether within a full-time job, freelance work, or as a personal side project.
 
-## Certifications
+## Education and Certifications
 
 I have a Bachelor of Computing Honours from Queen's University in Kingston, Ontario, Canada, with a specialization in Cognitive Science.
 
