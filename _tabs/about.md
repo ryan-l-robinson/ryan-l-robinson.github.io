@@ -20,7 +20,6 @@ More recently, I have obtained Microsoft 365 certifications:
 Exams MS-700, MS-100, and MS-101
 
 ![Enterprise Administrator Expert badge](../assets/microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge")
-
 ### Microsoft 365 Certified: Teams Administrator Associate 
 
 Exam MS-700
