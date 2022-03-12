@@ -2222,6 +2222,10 @@ figure .mfp-title {
   background-color: var(--sidebar-active-bg);
   color: var(--sidebar-active-color);
 }
+#sidebar .nav-item.active .nav-link:hover {
+  background-color: var(--white);
+  color: var(--red);
+}
 #sidebar ul {
   height: 15rem;
   margin-bottom: 2rem;
