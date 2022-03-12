@@ -1590,7 +1590,7 @@ html[mode="dark"] #disqus_thread {
     --checkbox-checked-color: var(--link-color);
     --sidebar-bg: var(--blue);
     --sidebar-muted-color: var(--text-color);
-    --sidebar-active-bg: var(--black)
+    --sidebar-active-bg: var(--black);
     --sidebar-active-color: var(--grey);
     --nav-cursor-color: rgb(183, 182, 182);
     --sidebar-btn-bg: rgb(117 116 116 / 20%);
@@ -2309,8 +2309,8 @@ figure .mfp-title {
   border-radius: 50%;
 }
  {
-    background: none;
-    color: var(--red);
+  background: none;
+  color: var(--red);
 }
 @media (hover: hover) {
   #sidebar ul > li:last-child::after {
@@ -2728,7 +2728,7 @@ figure .mfp-title {
   }
   .site-title:hover {
     background-color: transparent;
-    color:var(--white);
+    color: var(--white);
   }
   .site-subtitle {
     margin-left: 1rem;
