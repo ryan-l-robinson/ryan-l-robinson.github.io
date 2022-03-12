@@ -2219,7 +2219,7 @@ figure .mfp-title {
   height: 3rem;
 }
 #sidebar .nav-item.active .nav-link {
-    background-color: var(--sidebar-active-bg);
+  background-color: var(--sidebar-active-bg);
   color: var(--sidebar-active-color);
 }
 #sidebar ul {
@@ -2295,7 +2295,7 @@ figure .mfp-title {
   background-color: transparent;
 }
 #sidebar .sidebar-bottom .mode-toggle:hover > i {
-  color: var(--sidebar-active-color);
+  color: var(--grey);
 }
 #sidebar .sidebar-bottom .icon-border {
   background-color: var(--sidebar-muted-color);
@@ -2303,6 +2303,10 @@ figure .mfp-title {
   width: 3px;
   height: 3px;
   border-radius: 50%;
+}
+#sidebar .sidebar-bottom a:hover {
+    background: none;
+    color: var(--red);
 }
 @media (hover: hover) {
   #sidebar ul > li:last-child::after {
