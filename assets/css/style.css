@@ -1389,6 +1389,7 @@ html[mode="light"] {
   --main-wrapper-bg: var(--white);
   --main-border-color: var(--red);
   --text-color: var(--black);
+  --inverse-text-color: var(--white);
   --text-muted-color: var(--text-color);
   --heading-color: var(--black);
   --blockquote-border-color: var(--grey);
@@ -1455,6 +1456,7 @@ html[mode="dark"] {
   --main-wrapper-bg: rgb(27, 27, 30);
   --main-border-color: var(--red);
   --text-color: var(--white);
+  --inverse-text-color: var(--black);
   --text-muted-color: var(--text-color);
   --heading-color: var(--white);
   --blockquote-border-color: rgb(66, 66, 66);
@@ -1576,6 +1578,7 @@ html[mode="dark"] #disqus_thread {
     --main-wrapper-bg: var(--black);
     --main-border-color: var(--red);
     --text-color: var(--white);
+    --inverse-text-color: var(--black);
     --text-muted-color: var(--grey);
     --heading-color: var(--white);
     --blockquote-border-color: var(--grey);
@@ -1706,6 +1709,7 @@ html[mode="dark"] #disqus_thread {
     --main-wrapper-bg: var(--white);
     --main-border-color: var(--red);
     --text-color: var(--black);
+    --inverse-text-color: var(--white);
     --text-muted-color: var(--text-color);
     --heading-color: var(--black);
     --blockquote-border-color: var(--grey);
@@ -3566,6 +3570,7 @@ nav[data-toggle="toc"] .nav .nav > li > a.active {
 #page-category a:hover,
 #page-tag a:hover,
 #access-lastmod a:hover {
+  color: var(--inverse-text-color);
   margin-bottom: -1px;
 }
 @media all and (max-width: 576px) {
