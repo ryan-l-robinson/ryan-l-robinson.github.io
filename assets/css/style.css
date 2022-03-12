@@ -2165,7 +2165,7 @@ figure .mfp-title {
 #sidebar::-webkit-scrollbar {
   display: none;
 }
-#sidebar a:hover {
+#sidebar a:not(.site-title):hover {
   text-decoration: none;
   background-color: var(--white);
   color: var(--red) !important;
@@ -2733,7 +2733,7 @@ figure .mfp-title {
     font-size: 1.3rem;
     margin-left: 0 !important;
   }
-  .site-title:hover {
+  #sidebar .site-title:hover {
     background-color: transparent;
     color: var(--white);
   }
