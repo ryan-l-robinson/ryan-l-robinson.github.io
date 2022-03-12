@@ -147,7 +147,7 @@ i.fas,
 
 #sidebar .sidebar-bottom .mode-toggle,
 #sidebar a {
-  color: var(--white);
+  color: var(--text-color);
   user-select: none;
 }
 
@@ -2190,11 +2190,11 @@ figure .mfp-title {
   font-weight: 900;
   font-size: 1.5rem;
   letter-spacing: 0.5px;
-  color: var(--white);
+  color: var(--text-color);
 }
 #sidebar .site-subtitle {
   font-size: 95%;
-  color: var(--white);
+  color: var(--text-color);
   line-height: 1.2rem;
   word-spacing: 1px;
   margin: 0.5rem 1.5rem 0.5rem 1.5rem;
@@ -2335,7 +2335,7 @@ figure .mfp-title {
 }
 #topbar #breadcrumb {
   font-size: 1rem;
-  color: var(--white);
+  color: var(--text-color);
   padding-left: 0.5rem;
 }
 #topbar #breadcrumb span:not(:last-child)::after {
