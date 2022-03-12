@@ -3012,7 +3012,7 @@ figure .mfp-title {
   cursor: not-allowed;
 }
 .pagination .page-item.disabled .page-link {
-  color: rgba(108, 117, 125, 0.57);
+  color: var(--inverse-text-color);
   border-color: var(--btn-paginator-border-color);
   background-color: var(--button-bg);
 }
