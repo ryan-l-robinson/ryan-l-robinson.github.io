@@ -2304,6 +2304,7 @@ figure .mfp-title {
   padding: 0;
   border: 0;
   margin-bottom: 1px;
+  background-color: var(--sidebar-bg);
 }
 #sidebar .sidebar-bottom .mode-toggle > i {
   background-color: transparent;
