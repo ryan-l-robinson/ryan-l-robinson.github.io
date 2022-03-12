@@ -1452,7 +1452,7 @@ html[mode="dark"] {
   --mask-bg: rgb(68, 69, 70);
   --main-wrapper-bg: rgb(27, 27, 30);
   --main-border-color: rgb(44, 45, 45);
-  --text-color: rgb(175, 176, 177);
+  --text-color: var(--white);
   --text-muted-color: rgb(107, 116, 124);
   --heading-color: #cccccc;
   --blockquote-border-color: rgb(66, 66, 66);
@@ -2189,11 +2189,11 @@ figure .mfp-title {
   font-weight: 900;
   font-size: 1.5rem;
   letter-spacing: 0.5px;
-  color: #868585;
+  color: var(--white);
 }
 #sidebar .site-subtitle {
   font-size: 95%;
-  color: var(--sidebar-muted-color);
+  color: var(--white);
   line-height: 1.2rem;
   word-spacing: 1px;
   margin: 0.5rem 1.5rem 0.5rem 1.5rem;
@@ -2371,7 +2371,7 @@ figure .mfp-title {
   border: 0;
   border-radius: 0;
   padding: 0.18rem 0.3rem;
-  color: var(--text-color);
+  color: var(--white);
 }
 #search-input:focus {
   box-shadow: none;
