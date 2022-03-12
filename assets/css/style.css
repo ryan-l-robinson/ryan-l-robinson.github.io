@@ -1389,7 +1389,7 @@ html[mode="light"] {
   --main-wrapper-bg: var(--white);
   --main-border-color: var(--blue);
   --text-color: var(--black);
-  --text-muted-color: var(--grey);
+  --text-muted-color: var(--text-color);
   --heading-color: var(--black);
   --blockquote-border-color: var(--grey);
   --blockquote-text-color: var(--black);
@@ -1405,6 +1405,7 @@ html[mode="light"] {
   --sidebar-bg: var(--grey);
   --sidebar-muted-color: var(--grey);
   --sidebar-active-color: var(--red);
+  --sidebar-active-bg: var(--blue);
   --nav-cursor-color: var(--grey);
   --sidebar-btn-bg: var(--white);
   --topbar-text-color: var(--black);
@@ -1414,7 +1415,7 @@ html[mode="light"] {
   --search-tag-bg: #f8f9fa;
   --search-icon-color: #c2c6cc;
   --input-focus-border-color: var(--btn-border-color);
-  --post-list-text-color: dimgray;
+  --post-list-text-color: var(--text-color);
   --btn-patinator-text-color: #555555;
   --btn-paginator-hover-color: var(--sidebar-bg);
   --btn-paginator-border-color: var(--sidebar-bg);
@@ -1454,7 +1455,7 @@ html[mode="dark"] {
   --main-wrapper-bg: rgb(27, 27, 30);
   --main-border-color: var(--red);
   --text-color: var(--white);
-  --text-muted-color: var(--grey);
+  --text-muted-color: var(--text-color);
   --heading-color: var(--white);
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: rgb(117, 117, 117);
@@ -1472,6 +1473,7 @@ html[mode="dark"] {
   --sidebar-bg: var(--blue);
   --sidebar-muted-color: var(--grey);
   --sidebar-active-color: var(--red);
+  --sidebar-active-bg: var(--blue);
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(117 116 116 / 20%);
   --topbar-text-color: var(--text-color);
@@ -1480,7 +1482,7 @@ html[mode="dark"] {
   --search-wrapper-border-color: rgb(34, 34, 39);
   --search-icon-color: rgb(100, 102, 105);
   --input-focus-border-color: rgb(112, 114, 115);
-  --post-list-text-color: rgb(175, 176, 177);
+  --post-list-text-color: var(--text-color);
   --btn-patinator-text-color: var(--text-color);
   --btn-paginator-hover-color: rgb(64, 65, 66);
   --btn-paginator-border-color: var(--btn-border-color);
@@ -1586,8 +1588,8 @@ html[mode="dark"] #disqus_thread {
     --label-color: rgb(108, 117, 125);
     --checkbox-color: rgb(118 120 121);
     --checkbox-checked-color: var(--link-color);
-    --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
-    --sidebar-muted-color: var(--grey);
+    --sidebar-bg: var(--blue);
+    --sidebar-muted-color: var(--text-color);
     --sidebar-active-color: var(--red);
     --nav-cursor-color: rgb(183, 182, 182);
     --sidebar-btn-bg: rgb(117 116 116 / 20%);
@@ -1698,13 +1700,13 @@ html[mode="dark"] #disqus_thread {
     --body-bg: var(--grey);
     --mask-bg: var(--grey);
     --main-wrapper-bg: var(--white);
-    --main-border-color: #f3f3f3;
+    --main-border-color: var(--blue);
     --text-color: var(--black);
-    --text-muted-color: var(--grey);
+    --text-muted-color: var(--text-color);
     --heading-color: var(--black);
-    --blockquote-border-color: #eee;
-    --blockquote-text-color: #9a9a9a;
-    --link-color: #2a408e;
+    --blockquote-border-color: var(--grey);
+    --blockquote-text-color: var(--text-color);
+    --link-color: var(--blue);
     --link-underline-color: #dee2e6;
     --button-bg: #fff;
     --btn-border-color: #e9ecef;
@@ -1713,9 +1715,9 @@ html[mode="dark"] #disqus_thread {
     --btn-box-shadow: #eaeaea;
     --checkbox-color: #c5c5c5;
     --checkbox-checked-color: #07a8f7;
-    --sidebar-bg: #eeeeee;
-    --sidebar-muted-color: #a2a19f;
-    --sidebar-active-color: #424242;
+    --sidebar-bg: var(--blue);
+    --sidebar-muted-color: var(--text-color);
+    --sidebar-active-color: var(--red);
     --nav-cursor-color: #757575;
     --sidebar-btn-bg: var(--white);
     --topbar-text-color: rgb(78, 78, 78);
@@ -1725,8 +1727,8 @@ html[mode="dark"] #disqus_thread {
     --search-tag-bg: #f8f9fa;
     --search-icon-color: var(--black);
     --input-focus-border-color: var(--btn-border-color);
-    --post-list-text-color: dimgray;
-    --btn-patinator-text-color: #555555;
+    --post-list-text-color: var(--text-color);
+    --btn-patinator-text-color: var(--text-color);
     --btn-paginator-hover-color: var(--sidebar-bg);
     --btn-paginator-border-color: var(--sidebar-bg);
     --btn-text-color: var(--black);
@@ -1754,7 +1756,7 @@ html[mode="dark"] #disqus_thread {
     --kbd-text-color: var(--text-color);
     --kbd-bg-color: var(--white);
     --categories-hover-bg: var(--btn-border-color);
-    --categories-icon-hover-color: darkslategray;
+    --categories-icon-hover-color: var(--text-color);
     --timeline-color: rgba(0, 0, 0, 0.075);
     --timeline-node-bg: #c2c6cc;
     --timeline-year-dot-color: #ffffff;
@@ -2156,6 +2158,7 @@ figure .mfp-title {
 }
 #sidebar a:hover {
   text-decoration: none;
+  background-color: var(--sidebar-active-bg);
   color: var(--sidebar-active-color) !important;
 }
 #sidebar #avatar > a {
