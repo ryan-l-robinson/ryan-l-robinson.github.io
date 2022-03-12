@@ -1416,10 +1416,10 @@ html[mode="light"] {
   --search-icon-color: #c2c6cc;
   --input-focus-border-color: var(--btn-border-color);
   --post-list-text-color: var(--text-color);
-  --btn-patinator-text-color: #555555;
+  --btn-paginator-text-color: var(--text-color);
   --btn-paginator-hover-color: var(--sidebar-bg);
   --btn-paginator-border-color: var(--sidebar-bg);
-  --btn-text-color: #676666;
+  --btn-text-color: var(--text-color);
   --pin-bg: #f5f5f5;
   --pin-color: #999fa4;
   --btn-share-hover-color: var(--link-color);
@@ -1459,7 +1459,7 @@ html[mode="dark"] {
   --heading-color: var(--white);
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: rgb(117, 117, 117);
-  --link-color: var(--red);
+  --link-color: var(--grey);
   --link-underline-color: var(--red);
   --button-bg: rgb(39, 40, 43);
   --btn-border-color: rgb(63, 65, 68);
@@ -1577,7 +1577,7 @@ html[mode="dark"] #disqus_thread {
     --heading-color: var(--white);
     --blockquote-border-color: var(--grey);
     --blockquote-text-color: var(--white);
-    --link-color: var(--blue);
+    --link-color: var(--grey);
     --link-underline-color: var(--blue);
     --button-bg: var(--red);
     --btn-border-color: var(--red);
@@ -1730,10 +1730,10 @@ html[mode="dark"] #disqus_thread {
     --search-icon-color: var(--black);
     --input-focus-border-color: var(--btn-border-color);
     --post-list-text-color: var(--text-color);
-    --btn-patinator-text-color: var(--text-color);
+    --btn-paginator-text-color: var(--text-color);
     --btn-paginator-hover-color: var(--sidebar-bg);
     --btn-paginator-border-color: var(--sidebar-bg);
-    --btn-text-color: var(--black);
+    --btn-text-color: var(--text-color);
     --pin-bg: #f5f5f5;
     --pin-color: var(--grey);
     --btn-share-hover-color: var(--link-color);
