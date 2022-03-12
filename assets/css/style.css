@@ -1565,6 +1565,9 @@ html[mode="dark"] #archives li:nth-child(odd) {
 html[mode="dark"] #disqus_thread {
   color-scheme: none;
 }
+.text-muted {
+  color: var(--text-muted-color) !important;
+}
 @media (prefers-color-scheme: dark) {
   html:not([mode]),
   html[mode="dark"] {
