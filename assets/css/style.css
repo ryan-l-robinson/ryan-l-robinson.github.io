@@ -1425,7 +1425,7 @@ html[mode="light"] {
   --btn-share-hover-color: var(--link-color);
   --card-border-color: #f1f1f1;
   --card-box-shadow: rgba(234, 234, 234, 0.7686274509803922);
-  --label-color: #616161;
+  --label-color: var(--text-color);
   --relate-post-date: rgba(30, 55, 70, 0.4);
   --footnote-target-bg: lightcyan;
   --tag-bg: rgba(0, 0, 0, 0.075);
@@ -1467,7 +1467,7 @@ html[mode="dark"] {
   --btn-backtotop-border-color: var(--btn-border-color);
   --btn-box-shadow: var(--main-wrapper-bg);
   --card-header-bg: rgb(51, 50, 50);
-  --label-color: rgb(108, 117, 125);
+  --label-color: var(--text-color);
   --checkbox-color: rgb(118 120 121);
   --checkbox-checked-color: var(--link-color);
   --sidebar-bg: var(--blue);
@@ -1585,7 +1585,7 @@ html[mode="dark"] #disqus_thread {
     --btn-backtotop-border-color: var(--btn-border-color);
     --btn-box-shadow: var(--main-wrapper-bg);
     --card-header-bg: rgb(51, 50, 50);
-    --label-color: rgb(108, 117, 125);
+    --label-color: var(--text-color);
     --checkbox-color: rgb(118 120 121);
     --checkbox-checked-color: var(--link-color);
     --sidebar-bg: var(--blue);
@@ -1738,7 +1738,7 @@ html[mode="dark"] #disqus_thread {
     --btn-share-hover-color: var(--link-color);
     --card-border-color: #f1f1f1;
     --card-box-shadow: rgba(234, 234, 234, 0.7686274509803922);
-    --label-color: #616161;
+    --label-color: var(--text-color);
     --relate-post-date: rgba(30, 55, 70, 0.4);
     --footnote-target-bg: lightcyan;
     --tag-bg: rgba(0, 0, 0, 0.075);
@@ -1900,15 +1900,16 @@ img.shadow[data-src] {
   line-height: 1rem;
   font-size: 0.85rem;
   background: none;
+  color: var(--text-color);
   border: 1px solid var(--btn-border-color);
   border-radius: 0.8rem;
   padding: 0.3rem 0.5rem;
   margin: 0 0.35rem 0.5rem 0;
 }
 #panel-wrapper .post-tag:hover {
-  background-color: #2a408e;
-  border-color: #2a408e;
-  color: #fff;
+  background-color: var(--blue);
+  border-color: var(--red);
+  color: var(--white);
   transition: none;
 }
 #panel-wrapper.topbar-down > div {
