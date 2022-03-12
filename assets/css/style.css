@@ -1470,8 +1470,8 @@ html[mode="dark"] {
   --label-color: rgb(108, 117, 125);
   --checkbox-color: rgb(118 120 121);
   --checkbox-checked-color: var(--link-color);
-  --sidebar-bg: var(--blue);
-  --sidebar-muted-color: var(--grey);
+  --sidebar-bg: var(--grey);
+  --sidebar-muted-color: var(--text-color);
   --sidebar-active-color: var(--red);
   --sidebar-active-bg: var(--blue);
   --nav-cursor-color: rgb(183, 182, 182);
@@ -1495,7 +1495,7 @@ html[mode="dark"] {
   --tb-odd-bg: rgba(42, 47, 53, 0.52);
   --tb-even-bg: rgb(31, 31, 34);
   --tb-border-color: var(--tb-odd-bg);
-  --footnote-target-bg: rgb(63, 81, 181);
+  --footnote-target-bg: var(--blue);
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
   --relate-post-date: var(--text-muted-color);
@@ -1591,6 +1591,7 @@ html[mode="dark"] #disqus_thread {
     --sidebar-bg: var(--blue);
     --sidebar-muted-color: var(--text-color);
     --sidebar-active-color: var(--red);
+    --sidebar-active-bg: var(--blue);
     --nav-cursor-color: rgb(183, 182, 182);
     --sidebar-btn-bg: rgb(117 116 116 / 20%);
     --topbar-text-color: var(--text-color);
@@ -1715,9 +1716,10 @@ html[mode="dark"] #disqus_thread {
     --btn-box-shadow: #eaeaea;
     --checkbox-color: #c5c5c5;
     --checkbox-checked-color: #07a8f7;
-    --sidebar-bg: var(--blue);
+    --sidebar-bg: var(--grey);
     --sidebar-muted-color: var(--text-color);
     --sidebar-active-color: var(--red);
+    --sidebar-active-bg: var(--blue);
     --nav-cursor-color: #757575;
     --sidebar-btn-bg: var(--white);
     --topbar-text-color: rgb(78, 78, 78);
