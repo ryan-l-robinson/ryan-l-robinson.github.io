@@ -2305,6 +2305,9 @@ figure .mfp-title {
   border: 0;
   margin-bottom: 1px;
 }
+#sidebar .sidebar-bottom .mode-toggle > i {
+  background-color: transparent;
+}
 #sidebar .sidebar-bottom .mode-toggle:hover > i {
   background-color: var(--white);
   color: var(--red);
