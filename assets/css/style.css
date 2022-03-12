@@ -1387,7 +1387,7 @@ html[mode="light"] {
   --body-bg: var(--grey);
   --mask-bg: var(--grey);
   --main-wrapper-bg: var(--white);
-  --main-border-color: var(--white);
+  --main-border-color: var(--blue);
   --text-color: var(--black);
   --text-muted-color: var(--grey);
   --heading-color: var(--black);
@@ -1403,13 +1403,13 @@ html[mode="light"] {
   --checkbox-color: #c5c5c5;
   --checkbox-checked-color: var(--blue);
   --sidebar-bg: var(--grey);
-  --sidebar-muted-color: #a2a19f;
-  --sidebar-active-color: #424242;
-  --nav-cursor-color: #757575;
+  --sidebar-muted-color: var(--grey);
+  --sidebar-active-color: var(--red);
+  --nav-cursor-color: var(--grey);
   --sidebar-btn-bg: var(--white);
-  --topbar-text-color: rgb(78, 78, 78);
+  --topbar-text-color: var(--black);
   --topbar-wrapper-bg: var(--white);
-  --search-wrapper-bg: rgb(245 245 245 / 50%);
+  --search-wrapper-bg: var(--grey);
   --search-wrapper-border-color: rgb(245 245 245);
   --search-tag-bg: #f8f9fa;
   --search-icon-color: #c2c6cc;
@@ -1452,14 +1452,14 @@ html[mode="dark"] {
   --body-bg: var(--main-wrapper-bg);
   --mask-bg: rgb(68, 69, 70);
   --main-wrapper-bg: rgb(27, 27, 30);
-  --main-border-color: rgb(44, 45, 45);
+  --main-border-color: var(--red);
   --text-color: var(--white);
   --text-muted-color: var(--grey);
-  --heading-color: #cccccc;
+  --heading-color: var(--white);
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: rgb(117, 117, 117);
-  --link-color: rgb(138, 180, 248);
-  --link-underline-color: rgb(82, 108, 150);
+  --link-color: var(--red);
+  --link-underline-color: var(--red);
   --button-bg: rgb(39, 40, 43);
   --btn-border-color: rgb(63, 65, 68);
   --btn-backtotop-color: var(--text-color);
@@ -1571,7 +1571,7 @@ html[mode="dark"] #disqus_thread {
     --main-wrapper-bg: rgb(27, 27, 30);
     --main-border-color: rgb(44, 45, 45);
     --text-color: rgb(175, 176, 177);
-    --text-muted-color: rgb(107, 116, 124);
+    --text-muted-color: var(--grey);
     --heading-color: #cccccc;
     --blockquote-border-color: rgb(66, 66, 66);
     --blockquote-text-color: rgb(117, 117, 117);
@@ -2390,6 +2390,9 @@ figure .mfp-title {
 #search-input.form-control:focus::placeholder {
   opacity: 1;
 }
+#search-input::placeholder {
+  color: var(--text-color);
+}
 #search-hints {
   padding: 0 1rem;
 }
@@ -3108,9 +3111,9 @@ img.preview-img.bg[data-loaded="true"] {
   color: var(--link-color);
 }
 .post-navigation .btn:hover {
-  background: #2a408e;
-  color: #fff;
-  border-color: #2a408e;
+  background: var(--blue);
+  color: var(--blue);
+  border-color: var(--blue);
 }
 .post-navigation .btn.disabled {
   width: 50%;
@@ -3119,7 +3122,7 @@ img.preview-img.bg[data-loaded="true"] {
   pointer-events: auto;
   cursor: not-allowed;
   background: none;
-  color: gray;
+  color: var(--grey);
 }
 .post-navigation .btn.disabled:hover {
   border-color: none;
