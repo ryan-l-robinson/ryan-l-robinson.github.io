@@ -9,8 +9,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap");
 
 :root {
-  --alliteration-applications-blue: #1b2c58;
-  --alliteration-applications-red: #663333;
+  --blue: #1b2c58;
+  --red: #663333;
+  --grey: #d1d9e2;
   --white: #ffffff;
   --black: #000000;
 }
@@ -1387,13 +1388,13 @@ html[mode="light"] {
   --mask-bg: #c1c3c5;
   --main-wrapper-bg: var(--white);
   --main-border-color: #f3f3f3;
-  --text-color: #34343c;
+  --text-color: var(--black);
   --text-muted-color: gray;
   --heading-color: var(--black);
   --blockquote-border-color: #eee;
   --blockquote-text-color: #9a9a9a;
-  --link-color: #2a408e;
-  --link-underline-color: #dee2e6;
+  --link-color: var(--blue);
+  --link-underline-color: var(--blue);
   --button-bg: #fff;
   --btn-border-color: #e9ecef;
   --btn-backtotop-color: #686868;
@@ -2349,7 +2350,7 @@ figure .mfp-title {
   display: flex;
   width: 85%;
   border-radius: 1rem;
-  border: 1px solid var(--alliteration-applications-red);
+  border: 1px solid var(--red);
   background: var(--search-wrapper-bg);
   padding: 0 0.5rem;
 }
