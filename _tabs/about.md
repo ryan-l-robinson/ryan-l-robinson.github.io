@@ -17,18 +17,15 @@ More recently, I have obtained Microsoft 365 certifications:
 
 ### Microsoft 365 Certified: Enterprise Administrator Expert
 
-Exams MS-700, MS-100, and MS-101
+![Enterprise Administrator Expert badge](microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge"){: width="500" }
+_Exams MS-700, MS-100, and MS-101_
 
-![Enterprise Administrator Expert badge](../assets/microsoft-365-certified-enterprise-administrator-expert.png "Enterprise Administrator badge")
+### Microsoft 365 Certified: Teams Administrator Associate
 
-### Microsoft 365 Certified: Teams Administrator Associate 
-
-Exam MS-700
-
-![Microsoft Teams Administrator Associate badge](../assets/microsoft-365-certified-teams-administrator-associate.png "Teams Administrator badge")
+![Microsoft Teams Administrator Associate badge](microsoft-365-certified-teams-administrator-associate.png "Teams Administrator badge")
+_Exam MS-700_
 
 ### Microsoft Certified: Information Protection Administrator Associate
 
-Exam SC-400
-
-![Microsoft Information Protection Administrator Associate badge](../assets/microsoft-certified-information-protection-administrator-associate.png "Information Protection Administrator badge")
+![Microsoft Information Protection Administrator Associate badge](microsoft-certified-information-protection-administrator-associate.png "Information Protection Administrator badge")
+_Exam SC-400_
