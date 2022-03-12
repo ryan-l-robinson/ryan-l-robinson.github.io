@@ -2300,7 +2300,7 @@ figure .mfp-title {
   background-color: transparent;
 }
 #sidebar .sidebar-bottom .mode-toggle:hover > i {
-  color: var(--grey);
+  color: var(--red);
 }
 #sidebar .sidebar-bottom .icon-border {
   background-color: var(--sidebar-muted-color);
