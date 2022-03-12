@@ -1419,7 +1419,7 @@ html[mode="light"] {
   --btn-paginator-text-color: var(--text-color);
   --btn-paginator-hover-color: var(--sidebar-bg);
   --btn-paginator-border-color: var(--sidebar-bg);
-  --btn-text-color: var(--text-color);
+  --btn-text-color: var(--white);
   --pin-bg: #f5f5f5;
   --pin-color: #999fa4;
   --btn-share-hover-color: var(--link-color);
@@ -1486,7 +1486,7 @@ html[mode="dark"] {
   --btn-patinator-text-color: var(--text-color);
   --btn-paginator-hover-color: rgb(64, 65, 66);
   --btn-paginator-border-color: var(--btn-border-color);
-  --btn-text-color: var(--text-color);
+  --btn-text-color: var(--white);
   --pin-bg: rgb(34 35 37);
   --pin-color: inherit;
   --toc-highlight: rgb(116, 178, 243);
@@ -1604,7 +1604,7 @@ html[mode="dark"] #disqus_thread {
     --btn-patinator-text-color: var(--text-color);
     --btn-paginator-hover-color: rgb(64, 65, 66);
     --btn-paginator-border-color: var(--btn-border-color);
-    --btn-text-color: var(--text-color);
+    --btn-text-color: var(--white);
     --pin-bg: rgb(34 35 37);
     --pin-color: inherit;
     --toc-highlight: rgb(116, 178, 243);
@@ -1732,7 +1732,7 @@ html[mode="dark"] #disqus_thread {
     --btn-paginator-text-color: var(--text-color);
     --btn-paginator-hover-color: var(--sidebar-bg);
     --btn-paginator-border-color: var(--sidebar-bg);
-    --btn-text-color: var(--text-color);
+    --btn-text-color: var(--white);
     --pin-bg: #f5f5f5;
     --pin-color: var(--grey);
     --btn-share-hover-color: var(--link-color);
