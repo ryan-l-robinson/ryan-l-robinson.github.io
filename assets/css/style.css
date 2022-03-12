@@ -1404,6 +1404,7 @@ html[mode="light"] {
   --checkbox-checked-color: var(--blue);
   --sidebar-bg: var(--blue);
   --sidebar-muted-color: var(--grey);
+  --sidebar-active-bg: var(--white)
   --sidebar-active-color: var(--red);
   --nav-cursor-color: var(--grey);
   --sidebar-btn-bg: var(--white);
@@ -1471,7 +1472,8 @@ html[mode="dark"] {
   --checkbox-checked-color: var(--link-color);
   --sidebar-bg: var(--blue);
   --sidebar-muted-color: var(--text-color);
-  --sidebar-active-color: var(--red);
+  --sidebar-active-bg: var(--black);
+  --sidebar-active-color: var(--grey);
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(117 116 116 / 20%);
   --topbar-text-color: var(--text-color);
@@ -1588,7 +1590,8 @@ html[mode="dark"] #disqus_thread {
     --checkbox-checked-color: var(--link-color);
     --sidebar-bg: var(--blue);
     --sidebar-muted-color: var(--text-color);
-    --sidebar-active-color: var(--red);
+    --sidebar-active-bg: var(--black)
+    --sidebar-active-color: var(--grey);
     --nav-cursor-color: rgb(183, 182, 182);
     --sidebar-btn-bg: rgb(117 116 116 / 20%);
     --topbar-text-color: var(--text-color);
@@ -2157,7 +2160,7 @@ figure .mfp-title {
 #sidebar a:hover {
   text-decoration: none;
   background-color: var(--white);
-  color: var(--blue) !important;
+  color: var(--red) !important;
 }
 #sidebar #avatar > a {
   display: block;
@@ -2216,6 +2219,7 @@ figure .mfp-title {
   height: 3rem;
 }
 #sidebar .nav-item.active .nav-link {
+    background-color: var(--sidebar-active-bg);
   color: var(--sidebar-active-color);
 }
 #sidebar ul {
