@@ -2722,6 +2722,10 @@ figure .mfp-title {
     font-size: 1.3rem;
     margin-left: 0 !important;
   }
+  .site-title:hover {
+    background-color: transparent;
+    color:var(--white);
+  }
   .site-subtitle {
     margin-left: 1rem;
     margin-right: 1rem;
