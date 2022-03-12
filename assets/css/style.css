@@ -1410,7 +1410,7 @@ html[mode="light"] {
   --nav-cursor-color: var(--grey);
   --sidebar-btn-bg: var(--white);
   --topbar-text-color: var(--black);
-  --topbar-wrapper-bg: var(--white);
+  --topbar-wrapper-bg: var(--grey);
   --search-wrapper-bg: var(--grey);
   --search-wrapper-border-color: rgb(245 245 245);
   --search-tag-bg: #f8f9fa;
@@ -1479,7 +1479,7 @@ html[mode="dark"] {
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(117 116 116 / 20%);
   --topbar-text-color: var(--text-color);
-  --topbar-wrapper-bg: rgb(39, 40, 43);
+  --topbar-wrapper-bg: var(--red);
   --search-wrapper-bg: rgb(34, 34, 39);
   --search-wrapper-border-color: rgb(34, 34, 39);
   --search-icon-color: rgb(100, 102, 105);
@@ -1601,7 +1601,7 @@ html[mode="dark"] #disqus_thread {
     --nav-cursor-color: rgb(183, 182, 182);
     --sidebar-btn-bg: rgb(117 116 116 / 20%);
     --topbar-text-color: var(--text-color);
-    --topbar-wrapper-bg: rgb(39, 40, 43);
+    --topbar-wrapper-bg: var(--red);
     --search-wrapper-bg: rgb(34, 34, 39);
     --search-wrapper-border-color: var(--red);
     --search-icon-color: var(--white);
@@ -1729,7 +1729,7 @@ html[mode="dark"] #disqus_thread {
     --nav-cursor-color: #757575;
     --sidebar-btn-bg: var(--white);
     --topbar-text-color: rgb(78, 78, 78);
-    --topbar-wrapper-bg: var(--white);
+    --topbar-wrapper-bg: var(--grey);
     --search-wrapper-bg: rgb(245 245 245 / 50%);
     --search-wrapper-border-color: rgb(245 245 245);
     --search-tag-bg: var(--white);
@@ -2165,7 +2165,7 @@ figure .mfp-title {
 #sidebar::-webkit-scrollbar {
   display: none;
 }
-#sidebar a:not(.site-title):hover {
+#sidebar a:hover {
   text-decoration: none;
   background-color: var(--white);
   color: var(--red) !important;
