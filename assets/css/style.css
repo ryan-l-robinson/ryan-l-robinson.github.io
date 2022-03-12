@@ -1473,7 +1473,7 @@ html[mode="dark"] {
   --sidebar-bg: var(--blue);
   --sidebar-muted-color: var(--text-color);
   --sidebar-active-bg: var(--black);
-  --sidebar-active-color: var(--grey);
+  --sidebar-active-color: var(--white);
   --nav-cursor-color: rgb(183, 182, 182);
   --sidebar-btn-bg: rgb(117 116 116 / 20%);
   --topbar-text-color: var(--text-color);
@@ -1591,7 +1591,7 @@ html[mode="dark"] #disqus_thread {
     --sidebar-bg: var(--blue);
     --sidebar-muted-color: var(--text-color);
     --sidebar-active-bg: var(--black);
-    --sidebar-active-color: var(--grey);
+    --sidebar-active-color: var(--white);
     --nav-cursor-color: rgb(183, 182, 182);
     --sidebar-btn-bg: rgb(117 116 116 / 20%);
     --topbar-text-color: var(--text-color);
