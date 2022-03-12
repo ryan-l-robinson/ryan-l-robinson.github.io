@@ -1387,7 +1387,7 @@ html[mode="light"] {
   --body-bg: var(--grey);
   --mask-bg: var(--grey);
   --main-wrapper-bg: var(--white);
-  --main-border-color: var(--blue);
+  --main-border-color: var(--red);
   --text-color: var(--black);
   --text-muted-color: var(--text-color);
   --heading-color: var(--black);
@@ -1704,7 +1704,7 @@ html[mode="dark"] #disqus_thread {
     --body-bg: var(--grey);
     --mask-bg: var(--grey);
     --main-wrapper-bg: var(--white);
-    --main-border-color: var(--blue);
+    --main-border-color: var(--red);
     --text-color: var(--black);
     --text-muted-color: var(--text-color);
     --heading-color: var(--black);
@@ -2300,7 +2300,6 @@ figure .mfp-title {
   padding: 0;
   border: 0;
   margin-bottom: 1px;
-  background-color: transparent;
 }
 #sidebar .sidebar-bottom .mode-toggle:hover > i {
   background-color: var(--white);
@@ -2345,7 +2344,7 @@ figure .mfp-title {
   right: 0;
   transition: top 0.2s ease-in-out;
   z-index: 50;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  border-bottom: 1px solid var(--main-border-color);
   background-color: var(--topbar-wrapper-bg);
 }
 #topbar i {
