@@ -5,7 +5,7 @@ author: "Ryan Robinson"
 layout: post
 permalink: /all/microsoft-365/ms-101-prep-how-im-studying/
 image:
-  src: /assets/img/2021/02/pexels-photo-5797903-1.jpeg
+  src: /assets/img/2021/02/pexels-photo-5797903.jpeg
   height: 600
   width: 600
   alt: "Computer, notepad, and coffee for studying"
