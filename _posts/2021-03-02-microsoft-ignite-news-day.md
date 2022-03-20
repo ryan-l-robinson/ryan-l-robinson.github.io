@@ -3,12 +3,14 @@ id: 128
 title: "Microsoft Ignite News Day"
 date: "2021-03-02T17:14:47-05:00"
 author: "Ryan Robinson"
-layout: post
-guid: "https://ryanlrobinson.wordpress.com/?p=128"
 permalink: /microsoft-365/power-automate/microsoft-ignite-news-day/
 timeline_notification:
   - "1614723290"
-image: /assets/img/2021/03/dynamic-view-1.gif
+image:
+  src: /assets/img/2021/03/dynamic-view.gif
+  height: 600
+  width: 600
+  alt: "Teams Dynamic View screenshot"
 categories:
   - "Microsoft Teams"
   - "Power Apps"
@@ -22,7 +24,7 @@ Today was the first day of the spring edition of Microsoft Ignite, the primary c
 
 This was the key product in the opening keynote. Many of us have now spent most of a year straight only communicating with our coworkers through screens. Together Mode in Teams certainly helped as it showed everybody together – it’s less cognitive load and does make it feel just a little bit like you’re together – but it’s still staring at a flat screen. But what if instead we all entered a shared virtual reality or augmented reality space, where we could still access our shared resources like files from our Microsoft 365? That would be a significant improvement to the meeting from home experience. [Microsoft Mesh promises that kind of future](https://www.cnet.com/news/microsoft-mesh-will-teleport-you-in-ar-and-vr-to-play-with-others-across-lots-of-devices/).
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><div class="nv-iframe-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/Jd2GK0qDtRg?feature=oembed" title="Introducing Microsoft Mesh" width="1200"></iframe></div></div></figure>Mesh is a platform, not a specific product at this point. It allows developers to create applications where we can share holograms and appear as avatars speaking to each other. They didn’t promise any particular implementation of this technology, but along with the meeting idea they did also have some fun like playing Pokemon Go in the park with your HoloLens headset on.
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy" src="https://www.youtube.com/embed/Jd2GK0qDtRg?feature=oembed" title="Introducing Microsoft Mesh"></iframe>Mesh is a platform, not a specific product at this point. It allows developers to create applications where we can share holograms and appear as avatars speaking to each other. They didn’t promise any particular implementation of this technology, but along with the meeting idea they did also have some fun like playing Pokemon Go in the park with your HoloLens headset on.
 
 ## Microsoft Teams
 
@@ -34,7 +36,7 @@ Within meetings:
 - **Encryption**: end-to-end encryption on 1:1 video calls. That means your company or Microsoft couldn’t see your calls even if they tried.
 - **Presenter mode**: when presenting a PowerPoint, you can choose whether to keep your own overlaid on top of the presentation. That will make it a lot easier for viewers to still see you, helping with things like joke delivery which I have found can be quite awkward in one-directional virtual presentations.
 
-<figure>![](https://ryanlrobinson.files.wordpress.com/2021/03/dynamic-view.gif?w=1200)<figcaption>Dynamic view demo, from the Teams announcement blog.</figcaption></figure>There are also new webinar capabilities to allow for public registration to an event, email reminders going out to those attendees, and moderation tools.
+<figure>![](/assets/img/2021/03/dynamic-view.gif)<figcaption>Dynamic view demo, from the Teams announcement blog.</figcaption></figure>There are also new webinar capabilities to allow for public registration to an event, email reminders going out to those attendees, and moderation tools.
 
 Teams Connect allows for sharing Teams channels with other organizations. I’ll need to see exactly how this works, but it was high on the list of improvements many wanted to improve interaction with clients and partner organizations.
 

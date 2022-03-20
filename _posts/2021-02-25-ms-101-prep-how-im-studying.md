@@ -1,16 +1,14 @@
 ---
-id: 101
 title: "MS-101 Prep: How I&#8217;m Studying"
 date: "2021-02-25T10:30:56-05:00"
 author: "Ryan Robinson"
 layout: post
-guid: "https://ryanlrobinson.wordpress.com/?p=101"
 permalink: /all/microsoft-365/ms-101-prep-how-im-studying/
-timeline_notification:
-  - "1614267059"
-blogjr-selected-sidebar:
-  - sidebar-1
-image: /assets/img/2021/02/pexels-photo-5797903-1-600x600.jpeg
+image:
+  src: /assets/img/2021/02/pexels-photo-5797903-1.jpeg
+  height: 600
+  width: 600
+  alt: "Computer, notepad, and coffee for studying"
 categories:
   - "Microsoft 365"
 tags:
