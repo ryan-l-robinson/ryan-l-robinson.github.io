@@ -41,7 +41,7 @@ The gist of the idea of a password manager is that you only need to remember one
 Most if not all password managers also include a feature that will generate random passwords for you, storing them to the password manager all in one step. That solves the picking unique strong passwords problem.
 
 ![Security tab](https://ryanlrobinson.files.wordpress.com/2021/03/security-protection-anti-virus-software-60504.jpeg?w=1200)
-\_Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/internet-screen-security-protection-60504/)
+_Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/internet-screen-security-protection-60504/)_
 
 Most if not all password managers have browser extensions and auto-fill in apps on phones. You don’t have to look up the password and copy/paste it over. You just click on the right account from your password manager and it fills it in for you. You never even need to look at the password for the account you’re logging in to, let alone remembering it and typing it out. That solves the annoying to type out problem.
 
