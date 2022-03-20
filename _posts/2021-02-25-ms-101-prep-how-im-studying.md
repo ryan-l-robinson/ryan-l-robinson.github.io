@@ -3,7 +3,7 @@ title: "MS-101 Prep: How I&#8217;m Studying"
 date: "2021-02-25T10:30:56-05:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /all/microsoft-365/ms-101-prep-how-im-studying/
+permalink: /microsoft-365/ms-101-prep-how-im-studying/
 image:
   src: /assets/img/2021/02/pexels-photo-5797903.jpeg
   height: 600
