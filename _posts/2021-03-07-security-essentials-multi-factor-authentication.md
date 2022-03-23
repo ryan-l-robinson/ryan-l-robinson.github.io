@@ -4,7 +4,11 @@ date: "2021-03-07T17:33:08-05:00"
 author: "Ryan Robinson"
 layout: post
 permalink: /security-essentials-multi-factor-authentication/
-image: /assets/img/2021/03/img-products-yk5-family.png
+image:
+  src: /assets/img/2021/03/img-products-yk5-family.png
+  width: 600
+  height: 600
+  alt: "Yubikey product line"
 categories:
   - "General Tech Tools"
 tags:
@@ -32,7 +36,7 @@ In the middle and the most common are SMS codes texted to your phone or voice ca
 
 The highest end of the security scale is an authentication app on your phone (Microsoft Authenticator, Google Authenticator) or a dedicated security key device that must be plugged into your computer via USB ([YubiKey](https://www.yubico.com/products)). With these protections, a hacker would have to know your username and password AND also have your phone logged in to the authenticator app or the physical security key. That means they would have to physically rob you on top of cracking your password, which significantly cuts down on how many people can realistically pull it off. It also makes it likely you’ll notice before much damage is done.
 
-![](https://ryanlrobinson.files.wordpress.com/2021/03/img-products-yk5-family.png?w=1200)
+![](/assets/img/2021/03/img-products-yk5-family.png)
 _YubiKey product line, from the YubiKey website_
 
 ## Using an authenticator app

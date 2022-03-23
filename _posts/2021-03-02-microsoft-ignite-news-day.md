@@ -1,5 +1,4 @@
 ---
-id: 128
 title: "Microsoft Ignite News Day"
 date: "2021-03-02T17:14:47-05:00"
 author: "Ryan Robinson"
@@ -58,7 +57,7 @@ There are two big announcements for Power Platform that stood out to me.
 
 SharePoint Syntex is a relatively new tool for automating classification and data extraction from files. [A few new features include](https://techcommunity.microsoft.com/t5/sharepoint-syntex/learn-more-about-the-future-of-sharepoint-syntex-at-microsoft/ba-p/2178173):
 
-- **A find function**: when you’re training your identification model, this will make your life a lot easier to jump to the relevant data to trying to tell the model to pay attention to, rather than having to scroll through long documents. It’s a little addition that can add up to a lot of time saved.
+- **A find function**: when you’re training your identification model, this will make your life a lot easier to jump to the relevant data you're trying to tell the model to pay attention to, rather than having to scroll through long documents. It’s a little addition that can add up to a lot of time saved.
 - **Retention labels**: automatically applied when the content type is identified
 - **SharePoint hubs**: content types can now be assigned to SharePoint hubs. This will allow for changes to content types to roll out much faster to sites within the hub. The delay to roll out was always one of the more annoying factors when using content types, so this should help significantly.
 
