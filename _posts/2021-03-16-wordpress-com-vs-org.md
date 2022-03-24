@@ -6,8 +6,8 @@ layout: post
 permalink: /websites/wordpress-com-vs-org/
 image:
   src: /assets/img/logo/WordPress.png
-  width: 600
-  height: 400
+  width: 300
+  height: 300
   alt: "WordPress logo: a W inside a circle"
 categories:
   - Websites
