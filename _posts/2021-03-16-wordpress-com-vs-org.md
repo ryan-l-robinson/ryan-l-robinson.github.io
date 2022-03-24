@@ -5,10 +5,10 @@ author: "Ryan Robinson"
 layout: post
 permalink: /websites/wordpress-com-vs-org/
 image:
-   src: /assets/img/2021/03/pexels-photo-4176249.jpeg
-   width: 600
-   height: 600
-   alt: "Typewriter with the word WordPress on it"
+  src: /assets/img/logo/WordPress.png
+  width: 600
+  height: 600
+  alt: "WordPress logo: a W inside a circle"
 categories:
   - Websites
   - WordPress
@@ -21,8 +21,6 @@ For years I’ve built most of my sites using the open source WordPress platform
 Setup is significantly easier on WordPress.com. If you already have a web host, setting up your own may not be much extra work, but if this first time setting up a website, there is always some degree of hosting configuration to go through before installing WordPress. I won’t detail those steps here and they will vary by the hosting provider, but at minimum you’ll need to pick a hosting provider, set up payment, buy a domain or point an existing domain to it, and install WordPress. It might be much more complicated like setting up databases, uploading the WordPress code yourself, and so on.
 
 With the .com, you just say you want a new site, pick a domain, and you’re pretty much done. If you want to get up and going in a hurry, it’s a good way to go.
-[Typewriter with the word "WordPress" on it](/assets/img/2021/03/pexels-photo-4176249.jpeg)
-_Photo by Markus Winkler on [Pexels.com](https://www.pexels.com/photo/office-writing-technology-lens-4176249/)_
 
 It is somewhat limited. It has WordPress.com ads which you won’t get any money from. You can’t use your own domain. You can’t add your own plugins. You can’t customize your own code. If you want to be able to do those things, you might be cheaper (but more work) looking elsewhere. But if you just want a personal blog like this, it’s enough, easy to use, and free.\Update: soon after writing this, I started adding portfolio content and I don’t like the lack of flexibility in setting up those pages, so I am likely going to move to a self-hosted WordPress soon.[Check out the WordPress.com pricing page for all the details of pricing.](https://wordpress.com/pricing/)
 
