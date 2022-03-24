@@ -25,7 +25,7 @@ There is a mechanism for admins to give one user access to another user’s OneD
 
 SharePoint sites are most easily set up attached to Microsoft 365 Groups. Those Groups already carry permissions across all the services of Microsoft 365 like Planner and Teams. If you devise some logical groups, your files can neatly into those groups. Users don’t have to think about permissions for each file; they just need to put it in the relevant group.
 
-This also extends to search. When files are in SharePoint, anybody with the permissions to see it will also be able to find it within [Microsoft Search](/microsoft-365/microsoft-teams/microsoft-search-introduction/), unless search indexing is turned off for that SharePoint site.
+This also extends to search. When files are in SharePoint, anybody with the permissions to see it will also be able to find it within [Microsoft Search](/microsoft-365/microsoft-search-introduction/), unless search indexing is turned off for that SharePoint site.
 
 ## Columns, views, and content types
 
