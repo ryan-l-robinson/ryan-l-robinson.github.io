@@ -36,9 +36,6 @@ In the middle and the most common are SMS codes texted to your phone or voice ca
 
 The highest end of the security scale is an authentication app on your phone (Microsoft Authenticator, Google Authenticator) or a dedicated security key device that must be plugged into your computer via USB ([YubiKey](https://www.yubico.com/products)). With these protections, a hacker would have to know your username and password AND also have your phone logged in to the authenticator app or the physical security key. That means they would have to physically rob you on top of cracking your password, which significantly cuts down on how many people can realistically pull it off. It also makes it likely you’ll notice before much damage is done.
 
-![](/assets/img/2021/03/img-products-yk5-family.png)
-_YubiKey product line, from the YubiKey website_
-
 ## Using an authenticator app
 
 The authenticator apps may sound like more work than a simple text, but it really is easier on top of being more secure. I use Microsoft Authenticator and that’s what I will be referencing specifically, but Google Authenticator and others have similar if not identical functionality.
