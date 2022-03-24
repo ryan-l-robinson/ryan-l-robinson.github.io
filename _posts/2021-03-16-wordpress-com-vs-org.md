@@ -7,7 +7,7 @@ permalink: /websites/wordpress-com-vs-org/
 image:
   src: /assets/img/logo/WordPress.png
   width: 600
-  height: 600
+  height: 400
   alt: "WordPress logo: a W inside a circle"
 categories:
   - Websites
