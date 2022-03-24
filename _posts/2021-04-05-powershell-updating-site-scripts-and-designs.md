@@ -3,7 +3,7 @@ title: "PowerShell: Updating Site Scripts and Designs"
 date: "2021-04-05T11:20:00-04:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /all/microsoft-365/powershell-updating-site-scripts-and-designs/
+permalink: /microsoft-365/powershell-updating-site-scripts-and-designs/
 image:
   src: /assets/img/logo/PowerShell.png
   width: 300
