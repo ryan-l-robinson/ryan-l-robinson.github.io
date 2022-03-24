@@ -3,7 +3,7 @@ title: "CiviCRM: Overview"
 date: "2021-03-31T11:37:00-04:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /all/websites/civicrm/civicrm-overview/
+permalink: /crm/civicrm/civicrm-overview/
 image:
   src: /assets/img/logo/CiviCRM.png
   width: 300

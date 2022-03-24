@@ -3,7 +3,7 @@ title: "SharePoint: Desktop Sync Files"
 date: "2021-04-02T07:18:00-04:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /microsoft-365/sharepoint/desktop-sync-files-across-onedrive-and-sharepoint
+permalink: /microsoft-365/sharepoint/desktop-sync-files-across-onedrive-and-sharepoint/
 image:
   src: /assets/img/logo/OneDrive.png
   width: 300
