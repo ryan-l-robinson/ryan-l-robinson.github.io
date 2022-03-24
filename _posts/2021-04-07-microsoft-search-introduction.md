@@ -3,7 +3,7 @@ title: "Microsoft Search: Introduction"
 date: "2021-04-07T10:16:00-04:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /microsoft-365/microsoft-teams/microsoft-search-introduction/
+permalink: /microsoft-365/microsoft-search-introduction/
 image:
   src: /assets/img/2021/03/MicrosoftSearch-Bookmark.png
   width: 600
