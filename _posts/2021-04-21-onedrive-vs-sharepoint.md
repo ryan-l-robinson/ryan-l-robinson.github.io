@@ -3,7 +3,7 @@ title: "OneDrive vs SharePoint"
 date: "2021-04-21T02:59:00-04:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /microsoft-365/sharepoint/onedrive-vs-sharepoint/
+permalink: /microsoft-365/onedrive-vs-sharepoint/
 image:
   src: /assets/img/logo/OneDrive.png
   width: 300
