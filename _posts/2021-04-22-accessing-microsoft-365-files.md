@@ -43,7 +43,7 @@ There is, however, a button to open the document library in SharePoint in your b
 
 If Teams is the most modern way to work, using the OneDrive sync client is the most traditional and the most comfortable for a lot of people. In this way, you access files housed in the cloud just as easily as you’re already used to accessing files on your computer.
 
-[In another post, I broke down two different approaches to syncing your files from OneDrive and SharePoint together to your computer with the OneDrive sync client](/microsoft-365/desktop-sync-files-across-onedrive-and-sharepoint/).
+[In another post, I broke down two different approaches to syncing your files from OneDrive and SharePoint together to your computer with the OneDrive sync client](/microsoft-365/sharepoint/desktop-sync-files-across-onedrive-and-sharepoint/).
 
 ## Desktop and mobile apps
 
