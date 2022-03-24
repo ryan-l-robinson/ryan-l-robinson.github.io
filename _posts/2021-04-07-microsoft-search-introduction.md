@@ -6,7 +6,7 @@ layout: post
 permalink: /microsoft-365/microsoft-teams/microsoft-search-introduction/
 image:
   src: /assets/img/2021/03/MicrosoftSearch-Bookmark.png
-  width: 300
+  width: 600
   height: 300
   alt: "Microsoft Search demo with bookmarks"
 categories:
