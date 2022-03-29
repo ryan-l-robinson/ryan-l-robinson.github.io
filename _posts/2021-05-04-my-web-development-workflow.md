@@ -82,7 +82,6 @@ When I first tried this, it also worked to allow me to push from the server to G
 ```bash
 chmod 700 ~/.ssh/id_rsa
 ssh-add ~/.ssh/id_rsa
-
 ```
 
 ## GitHub
@@ -124,7 +123,6 @@ Host [URL]
   User [SSH username]
   IdentityFile [Path to id_rsa file]
   ForwardAgent yes
-
 ```
 
 Refresh the list of SSH targets in the remote explorer so the new URL will appear. Click on the “Connect to Host in New Window” icon beside the new URL. Enter the SSH key passphrase to connect. Click on the file browser icon in the left menu and select “Open Folder.” Browse to the root location of the site that you want to work from. Once you’ve opened a specific folder, you can jump straight to that folder from the SSH Targets list.
