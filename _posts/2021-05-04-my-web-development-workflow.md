@@ -61,7 +61,7 @@ If you’ve done the first part and try to load up a site, you will get prompted
 
 There are lots of approaches to updating that file (cPanel, SFTP, etc.), but I usually do it by connecting first with PuTTY (using a password the first time) and then editing the file with vi:
 
-````
+```bash
 mkdir .ssh
 vi .ssh/authorized_keys
 i #enters insert mode
@@ -76,10 +76,10 @@ I then close the session in PuTTY and try opening the saved session again. It sh
 
 When I first tried this, it also worked to allow me to push from the server to GitHub. That stopped working when I came back a few months later, though. So here’s what I also had to do:
 
-1. Upload the id\_rsa file to the .ssh folder
+1. Upload the id_rsa file to the .ssh folder
 2. Assign it restricted permissions and then add the key
 
-```
+```bash
 chmod 700 ~/.ssh/id_rsa
 ssh-add ~/.ssh/id_rsa
 
@@ -93,7 +93,7 @@ Here’s a common scenario for me: I’ve created a child theme to apply some tw
 
 Here are the commands for me to configure the git repository, using the themes folder as the example:
 
-```
+```bash
 cd ~/public_html/wp-content/themes
 git init
 git add *
@@ -139,4 +139,3 @@ Refresh the list of SSH targets in the remote explorer so the new URL will appea
 4. Click Ok to save, and then Connect to start the connection.
 
 After that, I like to export my list of sites. This will serve as a backup if I need to switch computers: This option is available from File -&gt; Export.
-````
