@@ -16,7 +16,7 @@ tags:
   - "SharePoint Site Provisioning"
 ---
 
-This post continues a series on [SharePoint site provisioning](/tag/sharepoint-site-provisioning/), unpacking some of the problems I’ve faced and overcome in building SharePoint site provisioning solutions.
+This post continues a series on [SharePoint site provisioning](/tags/sharepoint-site-provisioning/), unpacking some of the problems I’ve faced and overcome in building SharePoint site provisioning solutions.
 
 This post will look at dynamically creating SharePoint sites using Power Automate. An advantage of doing it this way is to automate different settings that can incorporate variables, as opposed to the standard interface tools for users to create new sites.
 
