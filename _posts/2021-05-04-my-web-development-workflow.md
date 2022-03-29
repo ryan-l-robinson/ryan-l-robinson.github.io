@@ -70,7 +70,6 @@ i #enters insert mode
 :wq! #saves and exits vi
 chmod 700 .ssh
 chmod 700 authorized_keys #limits access to this file
-
 ```
 
 I then close the session in PuTTY and try opening the saved session again. It should be able to connect and only need the SSH key password, not the site user password.
