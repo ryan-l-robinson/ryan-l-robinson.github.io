@@ -5,7 +5,7 @@ author: "Ryan Robinson"
 layout: post
 permalink: /microsoft-365/guest-users-from-google/
 image:
-  src: /assets/img/2021/04/Gmail.png
+  src: /assets/img/logo/Gmail.png
   width: 300
   height: 300
   alt: "Gmail logo"
