@@ -3,7 +3,7 @@ title: "Microsoft Endpoint Manager: Device Compliance Policies"
 date: "2021-05-31T11:16:00-04:00"
 author: "Ryan Robinson"
 layout: post
-permalink: /microsoft-365/endpoint/device-compliance-olicies
+permalink: /microsoft-365/endpoint/device-compliance-policies/
 image: 
     src: /assets/img/logo/Window-10.png
     width: 300
