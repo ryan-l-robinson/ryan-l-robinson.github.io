@@ -5,7 +5,7 @@ author: "Ryan Robinson"
 layout: post
 permalink: /microsoft-365/endpoint/device-compliance-policies/
 image: 
-    src: /assets/img/logo/Window-10.png
+    src: /assets/img/logo/Windows-10.png
     width: 300
     height: 300
     alt: "Windows 10 logo: stylized blue window"
