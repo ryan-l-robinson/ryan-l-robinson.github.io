@@ -54,7 +54,6 @@ RewriteEngine on
 RewriteRule ^(.*)$ https://ryanrobinson.technology/$1 [R=301,L]
 </IfModule>
 ```
-```
 
 ## Cleanup
 

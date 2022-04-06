@@ -26,7 +26,7 @@ Along the same lines, it is a lot easier to apply sorting by a column, by clicki
 
 If you want to edit a particular record from the results you’re viewing, all you need to do is hit the Form Editor option beside the results. You only need to worry about writing UPDATE queries when making bulk edits.
 
-![](/assets/img/2021/09/Form-Editor-1024x439.png)
+![](/assets/img/2021/09/Form-Editor.png)
 _Demo of the Form Editor_
 
 You still need to know enough MySQL to write many types of queries, but an added bonus is that it provides syntax checking. If you know a bit but aren’t an expert in writing MySQL queries, this can be a big help.
