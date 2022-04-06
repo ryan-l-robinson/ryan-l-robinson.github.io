@@ -23,7 +23,7 @@ It also can be a good technique for trying out a change over a period of time wi
 
 You can write your stylesheet directly in the Stylus extension, including specifying which domains the change should apply to for you.
 
-![](/assets/img/2021/09/Stylus-Editor-1024x513.png)
+![](/assets/img/2021/09/Stylus-Editor.png)
 _Stylus editor with a single change to font-size_
 
 Turn on the stylesheet in the extension and begin your regular testing. If you’ve worked with CSS on complex sites before (e.g. writing your own stylesheet on top of a WordPress or Drupal theme), you have probably encountered a scenario where the change you made applied it either too narrowly (missing a spot) or too broadly (changed something you didn’t mean to). Where Stylus can really be an advantage is that you can continue to browse the site as normal while working on other things. That gives you more opportunity to identify the problem before you actually save the change to the server. If there’s a problem, simply edit the CSS again and go back to browsing.
