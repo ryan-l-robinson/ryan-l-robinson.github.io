@@ -5,7 +5,7 @@ author: 'Ryan Robinson'
 layout: post
 permalink: /websites/browser-extension-stylus/
 image: 
-    src: /assets/img/logo/Styus.png
+    src: /assets/img/logo/Stylus.png
     width: 300
     height: 300
     alt: "Stylus logo"
