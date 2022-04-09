@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "Power Apps logo"
 categories:
+  - "Microsoft 365"
   - "Power Apps"
 tags:
   - "Movie Directory"

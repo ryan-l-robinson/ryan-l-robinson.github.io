@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "Power Automate logo: stylized arrow"
 categories:
+  - "Microsoft 365"
   - "Power Automate"
 tags:
   - "Movie Directory"

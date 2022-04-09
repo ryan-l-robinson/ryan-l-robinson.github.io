@@ -5,6 +5,7 @@ author: "Ryan Robinson"
 layout: post
 permalink: /microsoft-365/device-configuration-policies/
 categories:
+  - "Microsoft 365"
   - "Endpoint Manager"
 tags:
   - MS-101

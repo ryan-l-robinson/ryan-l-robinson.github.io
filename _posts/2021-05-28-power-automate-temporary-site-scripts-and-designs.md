@@ -9,9 +9,9 @@ image:
   width: 300
   height: 300
   alt: "Power Automate logo: stylized arrow"
-categories:  
+categories:
+  - "Microsoft 365"
   - "Power Automate"  
-  - SharePoint
 tags:  
   - "SharePoint Site Provisioning"
 

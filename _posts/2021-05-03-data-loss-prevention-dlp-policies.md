@@ -6,6 +6,7 @@ layout: post
 permalink: /microsoft-365/data-loss-prevention-dlp-policies/
 categories:
   - "Microsoft 365"
+  - "Security and Compliance"
 tags:
   - MS-101
   - Security

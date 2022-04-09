@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "Windows 10 logo: stylized blue window"
 categories:
+  - "Microsoft 365"
   - "Endpoint Manager"
 tags:
   - MS-101

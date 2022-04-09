@@ -5,7 +5,8 @@ author: "Ryan Robinson"
 layout: post
 permalink: /microsoft-365/microsoft-conditional-access-policies/
 categories:
-  - "Endpoint Manager"
+  - "Microsoft 365"
+  - "Security and Compliance"
 tags:
   - MS-101
   - Security
@@ -21,7 +22,7 @@ Conditional access policies, part of Microsoft Azure AD, goes a step further. It
 - **Location**: based on IP address, e.g. your office
 - **Device state**: paired with device compliance policies from Endpoint Management, this can set access rules based on whether the device is compliant or not
 
-![](/assets/img/2021/04/Conditional-Access-Policies.png)
+!["Conditional Access Policies options"](/assets/img/2021/04/Conditional-Access-Policies.png)
 _Screenshot of options for conditional access policies_
 
 Conditional access policies allow you to define exactly what you want to happen depending on a variety of risk factors. Along with those conditions, you get options to configure:

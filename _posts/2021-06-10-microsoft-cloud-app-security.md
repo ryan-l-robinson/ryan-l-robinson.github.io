@@ -11,6 +11,7 @@ image:
   alt: "SugarCRM security report in Cloud App Security"
 categories:
   - "Microsoft 365"
+  - "Security and Compliance"
 tags:
   - MS-101
   - Security
