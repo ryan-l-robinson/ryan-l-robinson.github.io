@@ -23,11 +23,11 @@ If you’re writing a lot of documentation in markdown, as you probably are if y
 This is all it takes, building off the standard code markdown “` markers and using arrows to indicate links between objects.
 
 ```markdown
-\```mermaid
+```mermaid
   graph TD;
       A-->B;
       A-->C;
       B-->D;
       C-->D;
-\```
+```
 ```
