@@ -1610,7 +1610,7 @@ html[mode="dark"] #disqus_thread {
     --search-icon-color: var(--white);
     --input-focus-border-color: rgb(112, 114, 115);
     --post-list-text-color: var(--text-color);
-    --btn-patinator-text-color: var(--text-color);
+    --btn-paginator-text-color: var(--text-color);
     --btn-paginator-hover-color: rgb(64, 65, 66);
     --btn-paginator-border-color: var(--btn-border-color);
     --btn-text-color: var(--white);
@@ -3142,8 +3142,8 @@ img.preview-img.bg[data-loaded="true"] {
 }
 .post-navigation .btn:hover {
   background: var(--blue);
-  color: var(--blue);
-  border-color: var(--blue);
+  color: var(--white);
+  border-color: var(--white);
 }
 .post-navigation .btn.disabled {
   width: 50%;
