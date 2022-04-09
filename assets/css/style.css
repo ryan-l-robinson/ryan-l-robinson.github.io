@@ -2082,7 +2082,7 @@ a.reversefootnote {
   background: var(--tag-bg);
   border-radius: 0.3rem;
   padding: 0 0.4rem;
-  color: inherit;
+  color: var(--tag-color);
   line-height: 1.3rem;
 }
 .post-tag:not(:last-child) {
@@ -2091,7 +2091,8 @@ a.reversefootnote {
 .post-tag:hover {
   border-bottom: none;
   text-decoration: none;
-  color: var(--link-underline-color);
+  background-color: var(--tag-hover);
+  color: var(--tag-hover-text);
 }
 .btn-lang {
   border: 1px solid !important;
