@@ -17,7 +17,7 @@ tags:
 
 [Koa11y](https://open-indy.github.io/Koa11y/) is another useful website development tool I came across recently. It is a downloadable desktop app that can be used to test out a website’s accessibility. It is not the most user-friendly app – not as intuitive as [the WAVE extension in your browser](https://wave.webaim.org/extension/), for example – but a web developer should have no problem sorting out a few extra steps. Most importantly, it did return more detailed issues with the website I first tested against compared to WAVE, which can be valuable information to fix as many accessibility issues as possible.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/yoJDb018Edc?feature=oembed" title="Koa11y: Find Accessibility Issues on your Site" width="500">
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" loading="lazy" src="https://www.youtube.com/embed/yoJDb018Edc?feature=oembed" title="Koa11y: Find Accessibility Issues on your Site" width="500">
 
 ## Koa11y demo
 
