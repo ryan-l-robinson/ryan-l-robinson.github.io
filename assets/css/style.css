@@ -3166,10 +3166,13 @@ img.preview-img.bg[data-loaded="true"] {
   box-shadow: none;
 }
 .post-navigation .btn::before {
-  color: var(--text-muted-color);
+  color: var(--link-color);
   font-size: 0.65rem;
   text-transform: uppercase;
   content: attr(prompt);
+}
+.post-navigation .btn::before:hover {
+  color: var(--white);
 }
 .post-navigation .btn:first-child {
   border-top-right-radius: 0;
