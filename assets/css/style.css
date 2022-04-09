@@ -1431,6 +1431,7 @@ html[mode="light"] {
   --relate-post-date: rgba(30, 55, 70, 0.4);
   --footnote-target-bg: lightcyan;
   --tag-bg: var(--grey);
+  --tag-color: var(--black);
   --tag-border: var(--blue);
   --tag-shadow: var(--btn-border-color);
   --tag-hover: var(--blue);
@@ -1495,6 +1496,7 @@ html[mode="dark"] {
   --pin-color: inherit;
   --toc-highlight: rgb(116, 178, 243);
   --tag-bg: var(--grey);
+  --tag-color: var(--black);
   --tag-hover: var(--white);
   --tag-hover-text: var(--blue);
   --tb-odd-bg: rgba(42, 47, 53, 0.52);
@@ -1618,6 +1620,7 @@ html[mode="dark"] #disqus_thread {
     --pin-color: inherit;
     --toc-highlight: rgb(116, 178, 243);
     --tag-bg: var(--grey);
+    --tag-color: var(--black);
     --tag-hover: var(--white);
     --tag-hover-text: var(--blue);
     --tb-odd-bg: rgba(42, 47, 53, 0.52);
@@ -1753,6 +1756,7 @@ html[mode="dark"] #disqus_thread {
     --relate-post-date: rgba(30, 55, 70, 0.4);
     --footnote-target-bg: lightcyan;
     --tag-bg: var(--grey);
+    --tag-color: var(--black);
     --tag-border: var(--blue);
     --tag-shadow: var(--btn-border-color);
     --tag-hover: var(--blue);
