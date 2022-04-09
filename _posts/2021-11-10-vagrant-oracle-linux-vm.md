@@ -3,7 +3,7 @@ title: 'Vagrant: Oracle Linux VM'
 date: '2021-11-10T16:34:00-05:00'
 author: 'Ryan Robinson'
 layout: post
-permalink: /all/websites/vagrant-oracle-linux-vm/
+permalink: /websites/vagrant-oracle-linux-vm/
 image: 
     src: /assets/img/logo/Vagrant.png
     width: 300
