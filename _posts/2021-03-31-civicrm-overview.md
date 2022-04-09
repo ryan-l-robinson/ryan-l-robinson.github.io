@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "CiviCRM logo"
 categories:
+  - Websites
   - CiviCRM
 tags:
   - Security

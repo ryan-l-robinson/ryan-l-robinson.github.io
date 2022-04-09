@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "WordPress logo: W inside a circleS"
 categories:
+  - Websites
   - WordPress
 tags:
   - Accessibility

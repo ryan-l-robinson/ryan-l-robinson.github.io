@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "Microsoft Teams logo: stylized T"
 categories:
+  - "Microsoft 365"
   - "Microsoft Teams"
 ---
 

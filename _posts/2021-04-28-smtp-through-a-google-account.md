@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "Gmail logo: mail envelope"
 categories:
+  - Websites
   - CiviCRM
 ---
 

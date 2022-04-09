@@ -10,7 +10,6 @@ image:
   height: 300
   alt: "Microsoft Office logo: stylized letter O"
 categories:
-  - "General Tech Tools"
   - "Microsoft 365"
 ---
 
