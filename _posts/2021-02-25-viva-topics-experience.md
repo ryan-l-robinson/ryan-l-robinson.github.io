@@ -10,6 +10,7 @@ image:
     height: 300
     alt: "SharePoint logo: stylized S"
 categories:
+    - "Microsoft 365"
     - SharePoint
 ---
 

@@ -10,6 +10,7 @@ image:
   height: 300
   alt: "OneDrive logo: a blue cloud"
 categories:
+  - "Microsoft 365"
   - SharePoint
 ---
 

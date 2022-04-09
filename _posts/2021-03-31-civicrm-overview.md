@@ -11,8 +11,6 @@ image:
   alt: "CiviCRM logo"
 categories:
   - CiviCRM
-  - Drupal
-  - WordPress
 tags:
   - Security
 ---

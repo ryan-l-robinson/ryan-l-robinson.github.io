@@ -10,7 +10,7 @@ image:
   height: 300
   alt: "Microsoft Search demo with bookmarks"
 categories:
-  - "Microsoft Teams"
+  - "Microsoft 365"
   - SharePoint
 ---
 

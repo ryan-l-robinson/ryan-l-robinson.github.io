@@ -11,6 +11,7 @@ image:
   alt: "Computer, notepad, and coffee for studying"
 categories:
   - "Microsoft 365"
+  - "Endpoint Manager"
 tags:
   - MS-101
 ---
