@@ -8,6 +8,9 @@ guid: 'https://ryanrobinson.technology/?p=1852'
 permalink: /microsoft-enterprise-administrator-expert/
 image: 
     src: /assets/img/logo/SharePoint.png
+    width: 300
+    height: 300
+    alt: "SharePoint logo: stylized S"
 categories:
     - 'Microsoft 365'
 tags:
