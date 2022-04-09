@@ -5,7 +5,7 @@ author: 'Ryan Robinson'
 layout: post
 permalink: /websites/github-and-gitlab-diagrams-in-markdown/
 image: 
-  src: /assets/logo/GitLab.png
+  src: /assets/img/logo/GitLab.png
   width: 300
   height: 300
   alt: "GitLab logo"
