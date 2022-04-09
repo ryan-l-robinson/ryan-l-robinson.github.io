@@ -10,7 +10,8 @@ image:
   height: 300
   alt: "GitPod logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
     - GitHub
     - GitLab

@@ -10,12 +10,13 @@ image:
   height: 300
   alt: "Docker whale logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - Docker
-    - 'Drupal Docker'
-    - GitPod
-    - PHP
+  - Docker
+  - 'Drupal Docker'
+  - GitPod
+  - PHP
 ---
 
 I have previously shared [setting up local development environments using vagrant](/websites/vagrant-oracle-linux-vm/) and [GitPod](/tags/gitpod-drupal/) in Drupal friendly ways. This post will start a new mini-series on how I built a Docker Desktop setup for a Drupal-friendly environment that is (mostly) based on Oracle Linux 8.

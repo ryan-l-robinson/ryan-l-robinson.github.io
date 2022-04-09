@@ -10,10 +10,11 @@ image:
   height: 300
   alt: "Drupal logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - GitLab
-    - 'GitLab DevOps'
+  - GitLab
+  - 'GitLab DevOps'
 ---
 
 Having a workflow that keeps your code in sync across development, staging, and production servers – like in the series of [GitLab DevOps](/tags/gitlab-devops/) posts I’ve been sharing recently – is important. But that doesn’t synchronize the database, which contains two major subcategories: configuration and content. It also doesn’t synchronize user-uploaded files, but that’s a subject for a different post.

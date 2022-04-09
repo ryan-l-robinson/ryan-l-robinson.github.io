@@ -10,14 +10,15 @@ image:
   height: 300
   alt: "GitPod logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - GitHub
-    - GitLab
-    - GitPod
-    - 'GitPod Drupal'
-    - MySQL
-    - 'Visual Studio Code'
+  - GitHub
+  - GitLab
+  - GitPod
+  - 'GitPod Drupal'
+  - MySQL
+  - 'Visual Studio Code'
 ---
 
 This post picks up in a [mini-series](/tags/gitpod-drupal/) describing how I created a generic Drupal-friendly container working with [GitPod](https://gitpod.io). The [first covered the GitPod.Dockerfile](/drupal/gitpod-container-1-dockerfile/) to build the core LAMP stack image.

@@ -10,7 +10,8 @@ image:
   height: 300
   alt: "Drupal logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
     - PHP
 ---

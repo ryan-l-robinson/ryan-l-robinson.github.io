@@ -10,9 +10,10 @@ image:
   height: 300
   alt: "Drupal logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - Accessibility
+  - Accessibility
 ---
 
 In doing research on accessibility tools that could be incorporated into a Drupal site, a co-worker recommended [Fluid UI](https://fluidproject.org/). This is not the same Fluid Framework used by Microsoft as the backbone of [the new Microsoft Loop tool](https://www.zdnet.com/article/microsoft-introduces-loop-a-new-collaboration-tool-built-on-fluid-framework/), or [the Fluent UI Microsoft design language](https://developer.microsoft.com/en-us/fluentui). There’s lots of use of Fluid and Fluent out there.

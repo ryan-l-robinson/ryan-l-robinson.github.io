@@ -10,13 +10,14 @@ image:
   height: 300
   alt: "GitPod logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - GitHub
-    - GitLab
-    - GitPod
-    - 'GitPod Drupal'
-    - 'Visual Studio Code'
+  - GitHub
+  - GitLab
+  - GitPod
+  - 'GitPod Drupal'
+  - 'Visual Studio Code'
 ---
 
 This post continues a [mini-series](/tags/gitpod-drupal/) in which I describe how I created a generic Drupal-friendly container working with GitPod. [The code is available in my GitHub](https://github.com/ryan-l-robinson/Drupal-GitPod).

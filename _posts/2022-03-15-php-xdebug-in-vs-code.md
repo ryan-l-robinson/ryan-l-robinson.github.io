@@ -10,10 +10,10 @@ image:
   height: 300
   alt: "Visual Studio Code logo"
 categories:
-    - Websites
+  - Websites
 tags:
-    - PHP
-    - 'Visual Studio Code'
+  - PHP
+  - 'Visual Studio Code'
 ---
 
 [XDebug](https://xdebug.org/) is a helpful tool when debugging PHP code. XDebug is a step debugging tools that helps you inspect functionality of PHP code in a cleaner way than regularly writing dump/log statements.

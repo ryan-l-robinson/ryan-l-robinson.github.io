@@ -10,8 +10,8 @@ image:
     height: 300
     alt: "Drupal logo"
 categories:
-    - Drupal
-    - Websites
+  - Websites
+  - Drupal
 ---
 
 Have you ever wanted to test out a Drupal module without actually installing it on your site? [SimplyTest.Me](https://simplytest.me/#) is the answer. All you have to do is pick a module or theme, including a specific version, that you want to test and it will generate a sandbox site for you to check it out. It’s fairly comprehensive and spins up the sandbox within a few minutes.

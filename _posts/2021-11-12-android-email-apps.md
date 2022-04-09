@@ -9,6 +9,8 @@ image:
     width: 300
     height: 300
     alt: "Nine email client logo"
+categories:
+    - 'General Tech Tools'
 tags:
     - Security
 ---

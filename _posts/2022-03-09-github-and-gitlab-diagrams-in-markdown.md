@@ -10,10 +10,10 @@ image:
   height: 300
   alt: "GitLab logo"
 categories:
-    - Websites
+  - Websites
 tags:
-    - GitHub
-    - GitLab
+  - GitHub
+  - GitLab
 ---
 
 GitHub recently announced [a great new feature that allows for generating diagrams within markdown](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/). I tested this out and it also works in GitLab.

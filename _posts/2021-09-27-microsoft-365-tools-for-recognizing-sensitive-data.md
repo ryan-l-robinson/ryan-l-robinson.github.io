@@ -11,6 +11,7 @@ image:
   alt: "SharePoint logo: stylized S"
 categories:
     - 'Microsoft 365'
+    - "Security and Compliance"
 ---
 
 There are a handful of tools in Microsoft 365 to help you with information protection. Which one is the best option will depend on the scenario you will need to use it for. Once you’ve identified sensitive data using one of these tools, you can use it apply compliance rules like blocking sharing outside the organization or retaining for a certain number of years.

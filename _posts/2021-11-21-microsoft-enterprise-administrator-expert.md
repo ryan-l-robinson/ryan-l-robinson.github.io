@@ -13,6 +13,7 @@ image:
     alt: "SharePoint logo: stylized S"
 categories:
     - 'Microsoft 365'
+    - 'Endpoint Manager'
 tags:
     - MS-101
     - MS-700

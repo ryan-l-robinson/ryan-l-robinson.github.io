@@ -10,10 +10,10 @@ image:
   height: 300
   alt: "GitLab logo"
 categories:
-    - Websites
+  - Websites
 tags:
-    - GitLab
-    - 'GitLab DevOps'
+  - GitLab
+  - 'GitLab DevOps'
 ---
 
 This relates to [the GitLab DevOps process](/tags/gitlab-devops/). GitLab can automate deployment to a server, meaning that you do not have to log in to that server separately to pull the changes and carry out any other needed steps for the installation.

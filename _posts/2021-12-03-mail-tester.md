@@ -10,7 +10,6 @@ image:
     height: 300
     alt: "Outlook logo: stylized O"
 categories:
-    - 'Microsoft 365'
     - Websites
 ---
 

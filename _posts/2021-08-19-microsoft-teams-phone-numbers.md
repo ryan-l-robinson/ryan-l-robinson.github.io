@@ -10,7 +10,8 @@ image:
   width: 300
   alt: "Microsoft Teams logo: stylized purple T"
 categories:
-    - 'Microsoft Teams'
+  - "Microsoft 365"
+  - 'Microsoft Teams'
 tags:
     - MS-700
 ---

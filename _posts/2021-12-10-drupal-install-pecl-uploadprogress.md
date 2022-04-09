@@ -10,6 +10,7 @@ image:
     height: 300
     alt: "Oracle Linux penguin"
 categories:
+    - Websites
     - Drupal
 tags:
     - PHP

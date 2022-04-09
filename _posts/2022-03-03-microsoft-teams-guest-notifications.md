@@ -10,7 +10,8 @@ image:
   width: 300
   alt: "Microsoft Teams logo: stylized purple T"
 categories:
-    - 'Microsoft Teams'
+  - "Microsoft 365"
+  - 'Microsoft Teams'
 ---
 
 Microsoft Teams has the great ability to invite users who are in other organizations to join your Teams in order to collaborate, assuming your IT admin has not turned that feature off. Guests in the Team can’t do everything that an internal member can do, but it’s pretty close, so it’s a strong environment for connecting with partners.

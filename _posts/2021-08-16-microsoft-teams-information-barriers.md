@@ -10,9 +10,10 @@ image:
   width: 300
   alt: "Microsoft Teams logo: stylized purple T"
 categories:
-    - 'Microsoft Teams'
+  - "Microsoft 365"
+  - 'Microsoft Teams'
 tags:
-    - MS-700
+  - MS-700
 ---
 
 What if you need to partition your organization so that some members of your tenant cannot communicate with others in Teams? For example, maybe you have interns who you do want to have Teams access but not to any sensitive information.

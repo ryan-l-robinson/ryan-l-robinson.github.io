@@ -10,8 +10,8 @@ image:
     height: 300
     alt: "Vagrant logo: stylized V"
 categories:
-    - Drupal
     - Websites
+    - Drupal
 tags:
     - GitHub
     - 'GitLab DevOps'

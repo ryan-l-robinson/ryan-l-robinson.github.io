@@ -10,12 +10,13 @@ image:
   height: 300
   alt: "GitLab logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - GitHub
-    - GitLab
-    - 'GitLab DevOps'
-    - PHP
+  - GitHub
+  - GitLab
+  - 'GitLab DevOps'
+  - PHP
 ---
 
 Here’s another piece in a [GitLab DevOps](/tags/gitlab-devops/) setting: when code is committed to GitLab, I want to run a PHP linter on the custom code folders of Drupal (modules and themes) to make sure there aren’t any glaring syntax bugs that snuck through. My personal favourite error is when a “:wq” gets inserted into a file trying to exit vim, after doing all the testing.

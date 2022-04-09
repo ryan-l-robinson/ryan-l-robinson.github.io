@@ -10,8 +10,8 @@ image:
     height: 300
     alt: "Cat sleeping in an office chair"
 categories:
+    - Websites
     - CiviCRM
-    - Drupal
 ---
 
 I once heard the phrase that most open source projects (the context was specifically Drupal) was not free as in beer but was free as in cats.

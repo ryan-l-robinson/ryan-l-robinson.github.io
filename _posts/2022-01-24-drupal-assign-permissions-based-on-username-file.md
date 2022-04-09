@@ -10,9 +10,10 @@ image:
   height: 300
   alt: "Drupal logo"
 categories:
-    - Drupal
+  - Websites
+  - Drupal
 tags:
-    - PHP
+  - PHP
 ---
 
 Here’s a recent scenario I encountered: a Drupal role needs to be assigned to certain users. The site is using a single sign on (SSO) system with a lot of users who could log in. But only some of those should be granted a certain permission. The list of those who can access the special permission role is automatically generated and put in place on the server on a daily basis, in a simple format with one line for each account name.

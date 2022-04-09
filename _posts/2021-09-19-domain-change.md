@@ -10,7 +10,8 @@ image:
   height: 600
   alt: "cPanel logo"
 categories:
-    - WordPress
+  - Websites
+  - WordPress
 ---
 
 This site is now ryanrobinson.technology instead of alliterationapplications.com. I felt that it was more representative of what this site has evolved to become. It is a repository of my technology knowledge and experience. It isn’t just about the rare freelance work that I do under the Alliteration Applications banner. Many of the blog posts came from personal study, personal projects, and (generalized versions of) work done within a full-time job – not from Alliteration Applications at all.
