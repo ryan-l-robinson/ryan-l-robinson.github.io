@@ -5,7 +5,7 @@ author: 'Ryan Robinson'
 layout: post
 permalink: /websites/pa11y-ci-oracle-linux-8-installation/
 image: 
-    src: /assets/img/logo/Oracle-Linux.png
+    src: /assets/img/logo/Oracle-Linux.jpg
     width: 300
     height: 300
     alt: "Oracle Linux penguin"

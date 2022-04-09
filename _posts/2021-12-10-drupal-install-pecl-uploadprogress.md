@@ -5,7 +5,7 @@ author: 'Ryan Robinson'
 layout: post
 permalink: /websites/drupal/drupal-install-pecl-uploadprogress/
 image: 
-    src: /assets/img/logo/Oracle-Linux.png
+    src: /assets/img/logo/Oracle-Linux.jpg
     width: 300
     height: 300
     alt: "Oracle Linux penguin"
