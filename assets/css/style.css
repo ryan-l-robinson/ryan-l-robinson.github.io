@@ -3171,7 +3171,7 @@ img.preview-img.bg[data-loaded="true"] {
   text-transform: uppercase;
   content: attr(prompt);
 }
-.post-navigation .btn::before:hover {
+.post-navigation .btn:hover::before {
   color: var(--white);
 }
 .post-navigation .btn:first-child {
