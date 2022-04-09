@@ -70,8 +70,8 @@ h2 .anchor {
 
 .post-tag:hover,
 .tag:hover {
-  background: var(--tag-hover);
-  color: var(--tag-hover-text);
+  background: var(--blue);
+  color: var(--white);
   transition: background 0.35s ease-in-out;
 }
 
