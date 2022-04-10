@@ -1497,8 +1497,8 @@ html[mode="dark"] {
   --toc-highlight: rgb(116, 178, 243);
   --tag-bg: var(--grey);
   --tag-color: var(--black);
-  --tag-hover: var(--white);
-  --tag-hover-text: var(--blue);
+  --tag-hover: var(--blue);
+  --tag-hover-text: var(--white);
   --tb-odd-bg: rgba(42, 47, 53, 0.52);
   --tb-even-bg: rgb(31, 31, 34);
   --tb-border-color: var(--tb-odd-bg);
@@ -1621,8 +1621,8 @@ html[mode="dark"] #disqus_thread {
     --toc-highlight: rgb(116, 178, 243);
     --tag-bg: var(--grey);
     --tag-color: var(--black);
-    --tag-hover: var(--white);
-    --tag-hover-text: var(--blue);
+    --tag-hover: var(--blue);
+    --tag-hover-text: var(--white);
     --tb-odd-bg: rgba(42, 47, 53, 0.52);
     --tb-even-bg: rgb(31, 31, 34);
     --tb-border-color: var(--tb-odd-bg);
