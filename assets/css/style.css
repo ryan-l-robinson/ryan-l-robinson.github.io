@@ -93,7 +93,7 @@ h2 .anchor {
 .post a:hover code,
 #access-lastmod a:hover,
 footer a:hover {
-  color: var(--link-underline-color) !important;
+  color: var(--white) !important;
   border-bottom: 1px solid var(--link-underline-color);
   text-decoration: none;
 }
@@ -1573,7 +1573,7 @@ html[mode="dark"] #disqus_thread {
   color-scheme: none;
 }
 .text-muted {
-  color: var(--text-muted-color) !important;
+  color: var(--text-color) !important;
 }
 @media (prefers-color-scheme: dark) {
   html:not([mode]),
