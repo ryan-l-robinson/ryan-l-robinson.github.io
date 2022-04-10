@@ -2178,7 +2178,7 @@ figure .mfp-title {
 #sidebar a:hover {
   text-decoration: none;
   background-color: var(--white);
-  color: var(--red) !important;
+  color: var(--red);
 }
 #sidebar #avatar > a {
   display: block;
@@ -2305,6 +2305,9 @@ figure .mfp-title {
 #sidebar .sidebar-bottom a {
   width: 2.4rem;
   text-align: center;
+}
+#sidebar .sidebar-bottom a:hover {
+  background-color: var(--red);
 }
 #sidebar .sidebar-bottom i {
   font-size: 1.2rem;
