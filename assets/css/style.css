@@ -2307,7 +2307,7 @@ figure .mfp-title {
   text-align: center;
 }
 #sidebar .sidebar-bottom a:hover {
-  background-color: var(--red);
+  background-color: var(--white);
 }
 #sidebar .sidebar-bottom i {
   font-size: 1.2rem;
