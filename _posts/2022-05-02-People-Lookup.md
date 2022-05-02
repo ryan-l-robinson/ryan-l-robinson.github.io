@@ -30,4 +30,4 @@ I finish the post now because there's great news: [Microsoft has now made that m
 
 Here's the video from the old way of doing it that I was starting to implement, but you can now safely ignore that and use the new way instead.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" width="500" loading="lazy" src="https://www.youtube.com/embed/xs_hWRNCwuA?feature=oembed" title="How to build a people picker in PowerApps with Azure AD" width="1200"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xs_hWRNCwuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
