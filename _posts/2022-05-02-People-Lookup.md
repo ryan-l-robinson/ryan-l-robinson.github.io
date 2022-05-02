@@ -24,10 +24,10 @@ The latter is what I wanted to do with the SharePoint site provisioning. I wante
 
 ## Good News!
 
-I finish the post now because there's great news: Microsoft has now made that much easier out of the box](https://powerapps.microsoft.com/en-us/blog/announcing-the-aad-user-virtual-table-find-and-add-any-aad-user-to-your-records/). That post includes lots of information for how to use this new tool.
+I finish the post now because there's great news: [Microsoft has now made that much easier out of the box](https://powerapps.microsoft.com/en-us/blog/announcing-the-aad-user-virtual-table-find-and-add-any-aad-user-to-your-records/). That post includes lots of information for how to use this new tool.
 
 ## Old Way
 
 Here's the video from the old way of doing it that I was starting to implement, but you can now safely ignore that and use the new way instead.
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="675" loading="lazy" src="https://www.youtube.com/embed/xs_hWRNCwuA?feature=oembed" title="How to build a people picker in PowerApps with Azure AD" width="1200"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" width="500" loading="lazy" src="https://www.youtube.com/embed/xs_hWRNCwuA?feature=oembed" title="How to build a people picker in PowerApps with Azure AD" width="1200"></iframe>
