@@ -3,7 +3,7 @@ title: 'GitHub Pages: Mobile Authoring'
 date: '2022-05-15T21:47:58-05:00'
 author: 'Ryan Robinson'
 layout: post
-permalink: '/websites/github-pages/mobile-authoring'
+permalink: '/websites/github-pages/mobile-authoring/'
 categories:
     - Websites
 tags:
