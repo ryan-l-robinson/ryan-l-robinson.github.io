@@ -2180,8 +2180,10 @@ figure .mfp-title {
 }
 #sidebar a:hover {
   text-decoration: none;
-  background-color: var(--white);
   color: var(--red);
+}
+#sidebar li a:hover {
+  background-color: var(--white);
 }
 #sidebar #avatar > a {
   display: block;
