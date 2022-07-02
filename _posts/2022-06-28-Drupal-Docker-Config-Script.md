@@ -102,7 +102,7 @@ vendor/drush/drush/drush cset -y system.site uuid "3d9878de-3355-4510-af4d-575de
 vendor/drush/drush/drush config-import -y
 ```
 
-Flush generated images, which helps if configuration changes since last time including changes to the media formats. This isn't really necessary when you aren't also using [the content_sync module](drupal.org/project/content_sync), which I no longer am in this demo, since without that there are no images to regenerate. But I kept the image flush anyway to demonstrate how that works.
+Flush generated images, which helps if configuration changes since last time including changes to the media formats. This isn't really necessary when you aren't also using [the content_sync module](https://drupal.org/project/content_sync), which I no longer am in this demo, since without that there are no images to regenerate. But I kept the image flush anyway to demonstrate how that works.
 
 ```bash
 vendor/drush/drush/drush image-flush --all
