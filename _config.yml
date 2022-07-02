@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Ryan Robinson, Web Application Developer, writes about work he's done in web technology, Microsoft 365, and more.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ryan-l-robinson.github.io'
+url: 'https://ryanrobinson.technology'
 
 github:
   username: ryan-l-robinson             # change to your github username
