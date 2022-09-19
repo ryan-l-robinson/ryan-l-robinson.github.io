@@ -3,6 +3,7 @@ title: 'Local Development Options: Vagrant, Docker Desktop, and GitPod'
 date: '2022-07-02T20:43:09-05:00'
 author: 'Ryan Robinson'
 layout: post
+permalink: /websites/local-development-options/
 image: 
   src: /assets/img/logo/Docker-Desktop.jpg
   width: 300
