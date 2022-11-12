@@ -31,8 +31,8 @@ url: 'https://ryanrobinson.technology'
 github:
   username: ryan-l-robinson             # change to your github username
 
-twitter:
-  username: Ryan_LR            # change to your twitter username
+mastodon:
+  username: Ryan@mstdn.ca            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,7 +41,7 @@ social:
   #email: ryan@alliterationapplications.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Ryan_LR      # change to your twitter homepage
+    - https://mstdn.ca/@Ryan
     - https://github.com/ryan-l-robinson       # change to your github homepage
     - https://www.linkedin.com/in/ryanlewisrobinson/
 
