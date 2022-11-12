@@ -32,7 +32,7 @@ github:
   username: ryan-l-robinson             # change to your github username
 
 mastodon:
-  username: Ryan@mstdn.ca            # change to your twitter username
+  username: Ryan@mstdn.ca
 
 social:
   # Change to your full name.
@@ -41,9 +41,9 @@ social:
   #email: ryan@alliterationapplications.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/ryanlewisrobinson/
     - https://mstdn.ca/@Ryan
     - https://github.com/ryan-l-robinson       # change to your github homepage
-    - https://www.linkedin.com/in/ryanlewisrobinson/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 

@@ -4,8 +4,8 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: mastodon
+  icon: 'fab fa-twitter' #TODO: replace this with a Mastodon icon
 -
   type: rss
   icon: 'fas fa-rss'
