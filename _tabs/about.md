@@ -24,6 +24,11 @@ _Exams MS-700, MS-100, and MS-101_
 ![Microsoft Teams Administrator Associate badge](../assets/img/microsoft-365-certified-teams-administrator-associate.png "Teams Administrator badge")
 _Exam MS-700_
 
+### Microsoft Certified: Power Platform App Maker Associate
+
+![Microsoft Power Platform App Maker Associate badge](../assets/img/microsoft-certified-power-platform-app-maker-associate.png "Power Platform App Maker badge")
+_Exam PL-100_
+
 ### Microsoft Certified: Information Protection Administrator Associate
 
 ![Microsoft Information Protection Administrator Associate badge](../assets/img/microsoft-certified-information-protection-administrator-associate.png "Information Protection Administrator badge")
