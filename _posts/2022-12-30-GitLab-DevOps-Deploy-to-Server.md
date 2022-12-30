@@ -1,6 +1,6 @@
 ---
 title: 'GitLab DevOps: Deploy to Server'
-date: '2022-12-30T16:47:05-05:00'
+date: '2022-12-30T15:45:05-05:00'
 permalink: /websites/gitlab-devops-deploy/
 author: 'Ryan Robinson'
 layout: post
