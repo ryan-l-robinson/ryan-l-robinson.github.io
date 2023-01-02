@@ -1,7 +1,7 @@
 ---
 title: 'GitLab DevOps: Drupal Deployment'
 date: '2023-01-02T10:47:05-05:00'
-permalink: /websites/drupal/git-lab-devops/
+permalink: /websites/drupal/gitlab-devops/
 author: 'Ryan Robinson'
 layout: post
 image: /assets/logo/GitLab.png
