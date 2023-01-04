@@ -1,6 +1,6 @@
 ---
-title: 'GitLab's New Web IDE"
-date: "2023-01-03T11:22:00-04:00"'
+title: "GitLab's New Web IDE"
+date: "2023-01-03T11:22:00-04:00"
 author: 'Ryan Robinson'
 layout: post
 permalink: /websites/gitlab-web-ide/
