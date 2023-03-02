@@ -12,7 +12,7 @@ image:
 categories:
   - Websites
   - Drupal
-lastmod: 2023-03-01T23:55:21.063Z
+lastmod: 2023-03-02T00:01:42.403Z
 ---
 
 Drupal does not come with any kind of recycle bin / trash system out of the box, unlike the other technologies I have worked with most (WordPress, SharePoint). There were a few modules available at the time I looked into this (admittedly over a year ago now), but they were all rough, either old or barely developed. None were reliable enough to count on. In this post I’ll describe a simple halfway approach that did not require any extra code.
