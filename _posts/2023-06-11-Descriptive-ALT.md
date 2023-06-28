@@ -1,13 +1,14 @@
 ---
-title: 'Accessibility: Level of Descriptiveness'
-date: '2023-06-11T13:46:00-05:00'
-author: 'Ryan Robinson'
+title: "Accessibility: Level of Descriptiveness"
+date: 2023-06-11T13:46:00-05:00
+author: Ryan Robinson
 layout: post
-permalink: /websites/accessibility-descriptive
+permalink: /websites/accessibility-descriptive/
 categories:
   - Websites
 tags:
   - Accessibility
+lastmod: 2023-06-28T22:34:36.214Z
 ---
 
 There's a tension in discussing accessibility for screen reader users that comes up sometimes. Most recently and perhaps most commonly is about ALT text, but it can also apply to other things, too. The main conflict is between:
