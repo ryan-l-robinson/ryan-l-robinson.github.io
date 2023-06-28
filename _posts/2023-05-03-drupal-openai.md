@@ -12,7 +12,7 @@ image:
 categories:
   - Websites
   - Drupal
-lastmod: 2023-06-28T22:28:13.799Z
+lastmod: 2023-06-28T22:30:49.856Z
 ---
 
 AI, or more specifically large language models (LMMs) are all the rage these days, so it shouldn't come as too much of a surprise that there is now [a Drupal module that integrates OpenAI](https://www.drupal.org/project/openai).
