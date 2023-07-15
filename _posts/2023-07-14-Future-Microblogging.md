@@ -1,11 +1,12 @@
 ---
-title: 'Future of Microblogging Social Media'
-date: '2023-07-15T08:18:09-05:00'
-author: 'Ryan Robinson'
+title: Future of Microblogging Social Media
+date: 2023-07-14T08:18:09-05:00
+author: Ryan Robinson
 layout: post
 permalink: /future-microblogging/
 categories:
-    - 'General Tech Tools'
+  - General Tech Tools
+lastmod: 2023-07-15T22:52:12.779Z
 ---
 
 Twitter, Mastodon, Calckey, Bluesky, Threads... And a whole bunch more that aren't even worth mentioning in my opinion ([I did try a couple of them](/twitter-mastodon-counter-social/)). It's an interesting time for social media, especially the microblogging format.
