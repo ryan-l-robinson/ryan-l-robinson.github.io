@@ -6,7 +6,7 @@ layout: post
 permalink: /future-microblogging/
 categories:
   - General Tech Tools
-lastmod: 2023-07-15T22:52:12.779Z
+lastmod: 2023-07-15T22:56:24.157Z
 ---
 
 Twitter, Mastodon, Calckey, Bluesky, Threads... And a whole bunch more that aren't even worth mentioning in my opinion ([I did try a couple of them](/twitter-mastodon-counter-social/)). It's an interesting time for social media, especially the microblogging format.
@@ -39,9 +39,9 @@ The unique selling proposition so far seems to be that it is not as much of a ce
 
 But the seams are showing with each time it fails to moderate well - they don't even have a trust and safety leadership structure - and as the user base steadily grows. As eventually happened with Facebook, exclusivity isn't much of a selling point when it will get more inclusive over time. Facebook survived because there wasn't much in the way of competition. But for Bluesky? There's plenty fighting for this space right now.
 
-And more to the point, most of the people I see there I don't think really want exclusivity forever. A lot are socially conscious "shitposters" and journalists and authors. I was for a while referring to the first group mostly as activists, but I've realized that isn't quite right. They're more like we saw a lot on Twitter, people who compete for the most snarky response to whatever the story of the day is that we're all angry about, then move on to the next thing tomorrow. That's not so much real activism, who are usually more focused on long-term efforts toward a specific cause.
+And more to the point, most of the people I see there I don't think really want exclusivity forever. A lot are socially conscious "shitposters" and journalists and authors. I was for a while referring to the first group mostly as activists, but I've realized that isn't quite right. They're more like we saw a lot on Twitter, people who compete for the most snarky response to whatever the story of the day is that we're all angry about, then move on to the next thing tomorrow. That's not so much activism, which is usually more focused on long-term efforts toward a specific cause.
 
-But in any case, wherever it falls in the real activism work vs shitposting spectrum, it can only go so far in a closed bubble. Most of them are still on Twitter and/or on Threads as well for that reason. So how long do they want to spend also focusing efforts on Bluesky? Or do they keep it as their secondary place of rest, to recover from the more frontline work elsewhere?
+But in any case, wherever it falls in the activism work vs shitposting spectrum, it can only go so far in a closed bubble. Most of them are still on Twitter and/or on Threads as well for that reason. So how long do they want to spend also focusing efforts on Bluesky? Or do they keep it as their secondary place of rest, to recover from the more frontline work elsewhere?
 
 I see that fading out as the exclusivity fades and the lack of trust and safety becomes more obvious, and I'm not sure they'll have any other selling point to replace it. Bluesky seems to think the selling point is their protocol, but it's not even done yet and most people don't care about federation. Those who do are already in the fediverse.
 
@@ -53,7 +53,7 @@ Mastodon is where I have mostly found my home (@<Ryan@mstdn.ca>). It's got years
 
 Calckey is another in the fediverse that addresses some of the concerns many have with Mastodon, like full text search and quote posts.
 
-There are lots more that I won't get into: Pixelfed for photos (think Instagram), Bookwyrm for book reviews (think Goodreads), Lemmy or Kbin for more forum-like conversations (Reddit)@. They can all talk to each other. That's a pretty promising future.
+There are lots more that I won't get into: Pixelfed for photos (think Instagram), Bookwyrm for book reviews (think Goodreads), Lemmy or Kbin for forum-like conversations (Reddit)@. They can all talk to each other. That's a pretty promising future.
 
 ## Predicting the Future
 
