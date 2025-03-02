@@ -7,9 +7,21 @@ html {
 
 body {
     margin: 0;
-    background-color: #000000;
-    color: #ffffff;
     font-size: 18pt;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #d1d9e2;
+        color: #000000;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #1E1E1E;
+        color: #ffffff;
+    }
 }
 
 /** Header **/
