@@ -4,7 +4,26 @@
     --blue: #1b2c58;
     --red: #663333;
     --black: #000000;
+    --near-black: #1E1E1E;
     --grey: #d1d9e2;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: var(--near-black);
+        --color: var(--white);
+        --hover-background: var(--white);
+        --hover-color: var(--blue);
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --background-color: var(--grey);
+        --color: var(--black);
+        --hover-background: var(--blue);
+        --hover-color: var(--white);
+    }
 }
 
 @font-face {
@@ -20,17 +39,10 @@ html {
 
 body {
     margin: 0;
-    background-color: #1E1E1E;
-    color: var(--white);
+    background-color: var(--background-color);
+    color: var(--color);
     font-family: "Atkinson Hyperlegible", sans-serif;
     font-size: 18pt;
-}
-
-@media (prefers-color-scheme: light) {
-    body {
-        background-color: var(--grey);
-        color: var(--black);
-    }
 }
 
 /** Header **/
@@ -75,9 +87,9 @@ a {
 a:hover,
 a:active {
     outline: 0;
-    background-color: var(--white);
-    color: var(--blue);
-    fill: var(--blue);
+    background-color: var(--hover-background);
+    color: var(--hover-color);
+    fill: var(--hover-color);
     text-decoration: none;
 }
 
