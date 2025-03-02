@@ -50,6 +50,10 @@ div.featured-image {
     max-width: 600px;
 }
 
+div.featured-image img {
+    max-width: 100%;
+}
+
 div.text {
     padding: 0 1em;
     z-index: 100;
