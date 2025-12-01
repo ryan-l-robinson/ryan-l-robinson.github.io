@@ -205,7 +205,7 @@ p {
 
 .footer-social-links li a {
     fill: var(--color);
-    padding: 8px;
+    padding: 5px;
 }
 
 .footer-social-links li a:is(:hover, :focus) {
