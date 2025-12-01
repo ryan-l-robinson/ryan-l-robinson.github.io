@@ -192,7 +192,7 @@ p {
 }
 
 .footer-social-links li a {
-    fill: var(--color);
+    fill: var(--white);
     padding: 5px;
 }
 
