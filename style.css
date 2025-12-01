@@ -11,6 +11,7 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --background-color: var(--near-black);
+        --border-color: var(--white);
         --color: var(--white);
         --hover-background: var(--white);
         --hover-color: var(--blue);
@@ -20,6 +21,7 @@
 @media (prefers-color-scheme: light) {
     :root {
         --background-color: var(--grey);
+        --border-color: var(--near-black);
         --color: var(--black);
         --hover-background: var(--blue);
         --hover-color: var(--white);
@@ -162,23 +164,9 @@ p {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    border-top: 1px solid var(--border-color);
     padding-top: 16px;
     padding-bottom: 16px;
-}
-
-.has-top-divider {
-    position: relative;
-}
-
-.has-top-divider::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    display: block;
-    height: 1px;
-    background: rgba(69, 76, 76, 1.0);
 }
 
 .list-reset {
