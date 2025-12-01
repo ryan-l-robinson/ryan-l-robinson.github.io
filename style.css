@@ -177,7 +177,7 @@ p {
     width: 100%;
     display: block;
     height: 1px;
-    background: rgba(69, 76, 76, 0.5);
+    background: rgba(69, 76, 76, 1.0);
 }
 
 .list-reset {
