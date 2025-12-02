@@ -87,12 +87,23 @@ h1 {
     color: var(--white);
 }
 
+.header-nav a::before {
+    display: inline-flex;
+    margin-left: 5px;
+    vertical-align: bottom;
+    font-family: "FontAwesome";
+}
+
 .header-nav a.tech-blog::before {
-  display: inline-flex;
-  margin-left: 5px;
-  vertical-align: bottom;
-  content: "\f5fc";
-  font-family: "FontAwesome";
+    content: "\f5fc";
+}
+
+.header-nav a.theology-blog::before {
+    content: "\f51d";
+}
+
+.header-nav a.social-links::before {
+    content: "\f2bd";
 }
 
 .header-nav a:is(:hover,:focus) {
