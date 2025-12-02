@@ -87,9 +87,10 @@ h1 {
     color: var(--white);
 }
 
-.header-nav a.tech-blog::after {
+.header-nav a.tech-blog::before {
   display: inline-flex;
   margin-left: 5px;
+  vertical-align: bottom;
   content: "\f5fc";
   font-family: "FontAwesome";
 }
