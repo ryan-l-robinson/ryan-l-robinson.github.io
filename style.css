@@ -65,6 +65,8 @@ h1 {
     display: flex;
     justify-content: center;
     gap: 1em;
+    background-color: var(--blue);
+    color: var(--white);
 }
 
 /** Main **/
