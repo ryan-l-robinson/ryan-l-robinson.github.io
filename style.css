@@ -197,7 +197,8 @@ p {
 }
 
 .footer-social-links li a:is(:hover, :focus) {
-    fill: var(--hover-color);
+    background-color: var(--white);
+    fill: var(--blue);
 }
 
 .screen-reader-text {
