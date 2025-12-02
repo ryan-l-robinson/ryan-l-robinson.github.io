@@ -145,12 +145,7 @@ p {
 
 .site-footer {
     background-color: var(--red);
-    position: relative;
     font-size: 14px;
-}
-
-.container {
-    max-width: 100%;
 }
 
 .site-footer-inner {
