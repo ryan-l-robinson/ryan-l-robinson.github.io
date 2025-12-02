@@ -49,6 +49,11 @@ body {
 
 /** Header **/
 
+header {
+    background-color: var(--red);
+    color: var(--white);
+}
+
 h1 {
     display: flex;
     justify-content: center;
