@@ -51,7 +51,7 @@ body {
 
 header {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
     background-color: var(--red);
     color: var(--white);
 }
