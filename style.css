@@ -61,6 +61,12 @@ h1 {
     font-size: 2em;
 }
 
+.header-nav {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
 /** Main **/
 
 main {
