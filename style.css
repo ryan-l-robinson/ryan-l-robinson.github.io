@@ -202,7 +202,7 @@ p {
     fill: var(--blue);
 }
 
-.screen-reader-text {
+.visually-hidden {
     clip: rect(1px, 1px, 1px, 1px);
     position: absolute;
     height: 1px;
