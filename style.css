@@ -49,11 +49,15 @@ body {
 
 /** Header **/
 
+/** flex-direction is reversed so the nav shows up first visually but is still under the h1 semantically **/
 header {
     display: flex;
     flex-direction: column-reverse;
+}
+
+.site-heading {
+    border-top: 1px solid var(--white);
     border-bottom: 1px solid var(--border-color);
-    padding-bottom: 0.25em;
     background-color: var(--red);
     color: var(--white);
 }
