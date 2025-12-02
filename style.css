@@ -53,6 +53,7 @@ header {
     display: flex;
     flex-direction: column-reverse;
     border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.25em;
     background-color: var(--red);
     color: var(--white);
 }
