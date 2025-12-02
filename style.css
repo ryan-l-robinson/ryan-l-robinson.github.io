@@ -52,7 +52,7 @@ body {
 header {
     display: flex;
     flex-direction: column-reverse;
-    border-bottom: 3px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
     background-color: var(--red);
     color: var(--white);
 }
