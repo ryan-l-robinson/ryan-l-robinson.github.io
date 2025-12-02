@@ -179,10 +179,6 @@ p {
     display: inline-flex;
 }
 
-.footer-social-links li+li {
-    margin-left: 16px;
-}
-
 .footer-social-links li a {
     fill: var(--white);
     padding: 5px;
