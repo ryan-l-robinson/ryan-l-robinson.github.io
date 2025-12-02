@@ -89,7 +89,7 @@ h1 {
 
 a.with-icon::before {
     display: inline-flex;
-    margin-left: 5px;
+    margin-right: 5px;
     vertical-align: bottom;
     font-family: "FontAwesome";
 }
