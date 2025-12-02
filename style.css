@@ -50,6 +50,8 @@ body {
 /** Header **/
 
 header {
+    display: flex;
+    flex-direction: row-reverse;
     background-color: var(--red);
     color: var(--white);
 }
@@ -63,7 +65,7 @@ h1 {
 
 .header-nav {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     gap: 1em;
     background-color: var(--blue);
     color: var(--white);
