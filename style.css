@@ -57,6 +57,7 @@ header {
 h1 {
     display: flex;
     justify-content: center;
+    margin: 0 0 0.5rem 0;
     font-size: 2em;
 }
 
@@ -69,6 +70,7 @@ main {
     flex-direction: row;
     justify-content: space-around;
     gap: 2em;
+    padding-top: 30px;
 }
 
 div.featured-image {
