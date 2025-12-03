@@ -224,13 +224,13 @@ p {
 /** Collapse rows evenly on smaller screens **/
 @media (max-width: 768px) {
   .footer-social-links li {
-    max-width: calc(100% / 5);
+    max-width: calc(5 * (60px + 0.5em));
   }
 }
 
 @media (max-width: 480px) {
   .footer-social-links li {
-    max-width: calc(100% / 3);
+    max-width: calc(3 * (60px + 0.5em));
   }
 }
 
