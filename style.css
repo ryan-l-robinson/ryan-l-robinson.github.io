@@ -229,7 +229,7 @@ p {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .footer-social-links li {
     flex: 1 1 calc(100% / 3); /* 3 per row */
     max-width: calc(100% / 3);
