@@ -217,21 +217,24 @@ p {
 	list-style: none;
 }
 
-.socials-group {
-	max-width: 33%;
+.footer-social-links {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 10px;
 }
 
-@media(max-width: 768px) {
-	.socials-group {
-		max-width: 50%;
-	}
+@media (min-width: 768px) {
+  .footer-social-links {
+    grid-template-columns: repeat(5, auto);
+  }
 }
 
-@media(max-width: 480px) {
-	.socials-group {
-		max-width: 100%;
-	}
+@media (min-width: 768px) {
+  .footer-social-links {
+    grid-template-columns: repeat(9, auto);
+  }
 }
+
 
 .footer-social-links li {
 	display: inline-flex;
