@@ -219,7 +219,24 @@ p {
 
 .footer-social-links li {
 	display: inline-flex;
+	flex: 1 1 calc(100% / 9);
 }
+
+/** Collapse rows evenly on smaller screens **/
+@media (max-width: 800px) {
+  .footer-icons a {
+    flex: 1 1 calc(100% / 5); /* 5 per row */
+    max-width: calc(100% / 5);
+  }
+}
+
+@media (max-width: 600px) {
+  .footer-icons a {
+    flex: 1 1 calc(100% / 3); /* 3 per row */
+    max-width: calc(100% / 3);
+  }
+}
+
 
 .footer-social-links li a {
 	fill: var(--white);
