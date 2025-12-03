@@ -221,7 +221,7 @@ p {
 	max-width: 33%;
 }
 
-@media(max-width: 758px) {
+@media(max-width: 768px) {
 	.socials-group {
 		max-width: 50%;
 	}
@@ -231,6 +231,10 @@ p {
 	.socials-group {
 		max-width: 100%;
 	}
+}
+
+.footer-social-links li {
+	display: inline-flex;
 }
 
 .footer-social-links li a {
