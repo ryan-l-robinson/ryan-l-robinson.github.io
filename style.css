@@ -206,8 +206,8 @@ p {
 }
 
 .footer-social-links {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
+  	grid-template-columns: repeat(3, auto);
 	justify-content: center;
 	column-gap: 0.5em;
 	row-gap: 0.5em;
@@ -215,12 +215,6 @@ p {
 	margin: 0;
 	padding: 0;
 	list-style: none;
-}
-
-.footer-social-links {
-  display: grid;
-  grid-template-columns: repeat(3, auto);
-  gap: 10px;
 }
 
 @media (min-width: 768px) {
