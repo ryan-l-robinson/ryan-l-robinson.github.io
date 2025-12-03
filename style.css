@@ -205,7 +205,7 @@ p {
 	padding: 16px 0;
 }
 
-.footer-social-links {
+.social-links {
 	display: grid;
 	grid-template-columns: repeat(3, auto);
 	justify-content: center;
@@ -217,26 +217,26 @@ p {
 }
 
 @media (min-width: 480px) {
-	.footer-social-links {
+	.social-links {
 		grid-template-columns: repeat(5, auto);
 	}
 }
 
 @media (min-width: 768px) {
-	.footer-social-links {
+	.social-links {
 		grid-template-columns: repeat(9, auto);
 	}
 }
 
-.footer-social-links li {
+.social-links li {
 	display: inline-flex;
 }
 
-.footer-social-links li a {
+.social-links li a {
 	fill: var(--white);
 }
 
-.footer-social-links li a:is(:hover, :focus) {
+.social-links li a:is(:hover, :focus) {
 	background-color: var(--white);
 	fill: var(--blue);
 }
