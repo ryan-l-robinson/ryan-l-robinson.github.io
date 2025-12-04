@@ -103,19 +103,19 @@ h1 {
 	text-align: center;
 }
 
-a.with-icon::before {
+.with-icon::before {
 	display: inline-flex;
 	margin-right: 5px;
 	vertical-align: bottom;
 	font-family: "FontAwesome";
 }
 
-a.tech-blog::before {
+.tech-blog::before {
 	content: "\f5fc";
 }
 
-a.theology-blog::before {
-	content: "\f51d";
+.theology-blog::before {
+	content: "\f4ba";
 }
 
 .header-nav a:is(:hover, :focus) {
