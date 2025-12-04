@@ -15,6 +15,7 @@
 	:root {
 		--background-color: var(--near-black);
 		--border-color: var(--white);
+		--button-border: var(--white);
 		--color: var(--white);
 		--hover-background: var(--white);
 		--hover-color: var(--blue);
@@ -25,6 +26,7 @@
 	:root {
 		--background-color: var(--grey);
 		--border-color: var(--blue);
+		--button-border: var(--black);
 		--color: var(--black);
 		--hover-background: var(--blue);
 		--hover-color: var(--white);
@@ -62,6 +64,78 @@ body {
 	height: 1px;
 	width: 1px;
 	overflow: hidden;
+}
+
+.img-wrapper {
+	display:flex;
+	justify-content: center;
+	padding-bottom: 1em;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+	color: inherit;
+	text-decoration: underline;
+	text-underline-position: under;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+	background-color: var(--hover-background);
+	color: var(--hover-color);
+	fill: var(--hover-color);
+	text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	font-weight: 600;
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: 42px;
+}
+
+h3 {
+	font-size: 1.2em;
+	line-height: 34px;
+	letter-spacing: -0.1px;
+	margin-top: 36px;
+	margin-bottom: 12px;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 1.1em;
+}
+
+/** Button Links **/
+
+p.button {
+	display: flex;
+	justify-content: center;
+}
+
+p.button a {
+	border: 1px solid var(--border-color);
+	border-radius: 5px;
+	background-color: var(--blue);
+	color: var(--white);
+	padding: 10px;
+}
+
+p.button a:is(:hover,:focus) {
+	background-color: var(--red);
 }
 
 /** Header **/
@@ -127,74 +201,19 @@ h1 {
 
 main {
 	display: flex;
-	flex: 1 0 auto;
 	flex-wrap: wrap;
 	flex-direction: row;
-	justify-content: space-around;
-	gap: 2em;
-	padding: 30px var(--main-gutter-x);
+	justify-content: space-between;
 }
 
-div.featured-image {
-	max-width: 600px;
+main section {
+	width: 100%;
 }
 
-div.featured-image img {
-	max-width: 100%;
-}
-
-div.text {
-	padding: 0;
-	z-index: 100;
-	max-width: 35em;
-}
-
-a {
-	color: inherit;
-	text-decoration: underline;
-	text-underline-position: under;
-}
-
-a:hover,
-a:active {
-	outline: 0;
-	background-color: var(--hover-background);
-	color: var(--hover-color);
-	fill: var(--hover-color);
-	text-decoration: none;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	clear: both;
-	font-weight: 600;
-}
-
-h2 {
-	margin-top: 0;
-	font-size: 1.5em;
-	line-height: 42px;
-}
-
-h3 {
-	font-size: 1.2em;
-	line-height: 34px;
-	letter-spacing: -0.1px;
-	margin-top: 36px;
-	margin-bottom: 12px;
-}
-
-p {
-	margin-top: 0;
-	margin-bottom: 1.1em;
-}
-
-.feature {
-	margin-top: 2em;
+@media(min-width:1080px) {
+	main section {
+		width: calc(50% - 1em);
+	}
 }
 
 /** Footer **/
