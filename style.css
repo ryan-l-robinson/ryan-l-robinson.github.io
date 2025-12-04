@@ -6,6 +6,9 @@
 	--black: #000000;
 	--near-black: #1e1e1e;
 	--grey: #d1d9e2;
+	--max-width: 1400px;
+	--main-gutter-x: 1em;
+	--main-gutter-y: 2em;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -68,6 +71,7 @@ header {
 .site-heading {
 	border-top: 1px solid var(--white);
 	border-bottom: 1px solid var(--border-color);
+	padding: 0 var(--main-gutter-x);
 	background-color: var(--red);
 	color: var(--white);
 }
@@ -80,27 +84,18 @@ h1 {
 }
 
 .header-nav {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	gap: 1em;
-	padding-bottom: 0.25em;
 	background-color: var(--blue);
 	color: var(--white);
 }
 
-.header-nav a {
-	width: 100%;
-}
-
-@media (min-width: 768px) {
-	.header-nav {
-		justify-content: flex-end;
-	}
-
-	.header-nav a {
-		width: 33%;
-	}
+.header-nav-items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 1em;
+	margin: 0.5em var(--main-gutter-x);
+	padding: 0;
+	list-style: none;
 }
 
 a.with-icon::before {
@@ -116,10 +111,6 @@ a.tech-blog::before {
 
 a.theology-blog::before {
 	content: "\f51d";
-}
-
-a.link-to-socials::before {
-	content: "\f2bd";
 }
 
 .header-nav a:is(:hover, :focus) {
