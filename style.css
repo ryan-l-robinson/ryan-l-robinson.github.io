@@ -92,7 +92,7 @@ h1 {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	gap: 1em;
+	gap: 0.5em 1em;
 	margin: 0.5em var(--main-gutter-x);
 	padding: 0;
 	list-style: none;
