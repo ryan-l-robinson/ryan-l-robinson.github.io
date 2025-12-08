@@ -103,7 +103,6 @@ h6 {
 
 h2 {
 	font-size: 1.5em;
-	line-height: 42px;
 }
 
 h3 {
@@ -212,18 +211,19 @@ main {
 
 main section {
 	width: 100%;
+	border: 1px solid var(--border-color);
 }
 
 @media(min-width:1080px) {
 	main section {
-		width: calc(50% - 1em);
+		width: calc(50% - 2px);
 	}
 }
 
 /** Footer **/
 
 .site-footer {
-	border-top: 3px solid var(--border-color);
+	border-top: 2px solid var(--border-color);
 	background-color: var(--red);
 	font-size: 14px;
 }
