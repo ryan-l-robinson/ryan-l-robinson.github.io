@@ -192,6 +192,10 @@ h1 {
 	content: "\f4ba";
 }
 
+.favourites-icon::before {
+	content: "\f004";
+}
+
 .header-nav a:is(:hover, :focus) {
 	background-color: var(--white);
 	color: var(--red);
