@@ -8,5 +8,4 @@ I am currently happy with the header and footer, but I am still tinkering with t
 
 At minimum I still need to do:
 
-- Add a photo for not work, maybe the one of me with Ciri on my shoulder
-- Add some border separation between the two sections
+- Improve the border separation between the two sections. Maybe not a full border, just a partial vertical line?
