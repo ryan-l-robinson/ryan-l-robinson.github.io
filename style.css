@@ -207,16 +207,29 @@ main {
 	flex-wrap: wrap;
 	flex-direction: row;
 	justify-content: space-between;
+	position: relative;
 }
 
 main section {
 	width: 100%;
-	border: 1px solid var(--border-color);
 }
 
 @media (min-width: 1080px) {
 	main section {
-		width: calc(50% - 2px);
+		display: flex;
+		align-items: center;
+		width: calc(50% - 1rem);
+	}
+
+	main::after {
+		content: "";
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		top: 15%;
+		height: 70%;
+		width: 1px;
+		background-color: var(--border-color);
 	}
 }
 
