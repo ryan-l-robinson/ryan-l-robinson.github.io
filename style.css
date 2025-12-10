@@ -202,6 +202,7 @@ h1 {
 
 /** Main **/
 
+/* --- Base Styles (Mobile / Stacked) --- */
 main {
 	display: flex;
 	flex-wrap: wrap;
@@ -214,11 +215,25 @@ main section {
 	width: 100%;
 }
 
+main section:first-child::after {
+	content: "";
+	display: block;
+	width: 70%;
+	height: 1px;
+	background-color: var(--border-color);
+	margin: 2rem auto 0 auto;
+}
+
+/* --- Desktop Styles (Side-by-Side) --- */
 @media (min-width: 1080px) {
 	main section {
 		display: flex;
 		align-items: center;
 		width: calc(50% - 1rem);
+	}
+
+	main section:first-child::after {
+		display: none;
 	}
 
 	main::after {
